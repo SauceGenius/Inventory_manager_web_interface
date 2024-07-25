@@ -1,7 +1,0 @@
-__pycache__/
-/certs
-*.pyc
-.env
-*.log
-*.pem
-*.crt
