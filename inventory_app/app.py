@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, redirect, url_for, flash
 from flask_mysqldb import MySQL
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
@@ -8,17 +9,21 @@ from datetime import date
 import pandas as pd
 from io import BytesIO
 from flask import send_file
+from dotenv import load_dotenv
 
+load_dotenv()  # Load environment variables from .env file
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'
+app.secret_key = os.getenv('SECRET_KEY')
 
 # Database configuration
-app.config['MYSQL_HOST'] = 'Localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'tofer006007'
-app.config['MYSQL_DB'] = 'inventory'
+app.config['MYSQL_HOST'] = os.getenv('MYSQL_HOST')
+app.config['MYSQL_PORT'] = int(os.getenv('MYSQL_PORT'))
+app.config['MYSQL_USER'] = os.getenv('MYSQL_USER')
+app.config['MYSQL_PASSWORD'] = os.getenv('MYSQL_PASSWORD')
+app.config['MYSQL_DB'] = os.getenv('MYSQL_DB')
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
+app.config['MYSQL_SSL_CA'] = os.getenv('MYSQL_SSL_CA', '/app/certs/Microsoft_RSA_Root_Certificate_Authority_2017.pem')
 
 mysql = MySQL(app)
 login_manager = LoginManager(app)
@@ -402,4 +407,4 @@ def sales():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=80, debug=True)
