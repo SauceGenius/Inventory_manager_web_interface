@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block title %}
+Sale
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="my-4">Sale Stock ID {{ stock['stock_id'] }}</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <p><strong>Batch:</strong> {{ stock['batch_name'] }}</p>
+            <p><strong>Lineage:</strong> {{ stock['lineage_name'] }}</p>
+            <p><strong>Category:</strong> {{ stock['category_name'] }}</p>
+            <p><strong>Harvest Date:</strong> {{ stock['date_harvest'] }}</p>
+            <p><strong>THC:</strong> {{ stock['batch_thc'] }}</p>
+            <p><strong>Weight (g):</strong> {{ "{:,.2f}".format(stock['weight_g']) }}</p>
+        </div>
+    </div>
+
+    <form action="{{ url_for('sale', stock_id=stock['stock_id']) }}" method="post" class="mb-4">
+        <div class="form-group">
+            <label for="price_per_gram">Price per gram:</label>
+            <input type="number" id="price_per_gram" name="price_per_gram" class="form-control" step="0.01" required>
+        </div>
+        <div class="form-group">
+            <label for="sale_total">Total Sale Price:</label>
+            <input type="text" id="sale_total" name="sale_total" class="form-control" readonly>
+        </div>
+        <div class="form-group">
+            <label for="customer_id">Select Customer:</label>
+            <select id="customer_id" name="customer_id" class="form-control">
+                <option value="">Select Customer</option>
+                {% for customer in customers %}
+                <option value="{{ customer['customer_id'] }}">{{ customer['customer_name'] }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="new_customer_name">New Customer Name:</label>
+            <input type="text" id="new_customer_name" name="new_customer_name" class="form-control">
+        </div>
+        <div class="button-container">
+            <button type="submit" class="btn btn-success confirm disabled" disabled>Confirm</button>
+            <a href="{{ url_for('stock_detail', stock_id=stock['stock_id']) }}" class="btn btn-danger back">Back to Stock Detail</a>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        $('#price_per_gram').on('input', function() {
+            var pricePerGram = parseFloat($(this).val());
+            var weightG = parseFloat({{ stock['weight_g'] }});
+            if (!isNaN(pricePerGram) && pricePerGram > 0) {
+                var saleTotal = pricePerGram * weightG;
+                $('#sale_total').val(formatNumber(saleTotal));
+            } else {
+                $('#sale_total').val('');
+            }
+            toggleConfirmButton();
+        });
+
+        $('#customer_id').on('change', function() {
+            if ($(this).val()) {
+                $('#new_customer_name').prop('disabled', true).val('');
+            } else {
+                $('#new_customer_name').prop('disabled', false);
+            }
+            toggleConfirmButton();
+        });
+
+        $('#new_customer_name').on('input', function() {
+            toggleConfirmButton();
+        });
+
+        function toggleConfirmButton() {
+            var pricePerGram = $('#price_per_gram').val();
+            var customerId = $('#customer_id').val();
+            var newCustomerName = $('#new_customer_name').val();
+            if (pricePerGram && (customerId || newCustomerName)) {
+                $('.confirm').prop('disabled', false).removeClass('disabled');
+            } else {
+                $('.confirm').prop('disabled', true).addClass('disabled');
+            }
+        }
+
+        function formatNumber(num) {
+            return num.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, function(match, offset, string) {
+                return match + ' ';
+            });
+        }
+    });
+</script>
+{% endblock %}

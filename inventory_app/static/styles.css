@@ -1,0 +1,133 @@
+.button-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button-container a, .button-container button {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-container .confirm {
+    background-color: green;
+    margin-right: 10px;
+}
+
+.button-container .confirm:hover {
+    background-color: darkgreen;
+}
+
+.button-container .confirm.disabled {
+    background-color: gray;
+    cursor: not-allowed;
+}
+
+.button-container .back {
+    background-color: red;
+}
+
+.button-container .back:hover {
+    background-color: darkred;
+}
+
+.btn-logout {
+    background-color: #DC143C; /* Crimson Red */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.btn-logout:hover {
+    background-color: #A0001C; /* Darker Crimson Red */
+}
+
+body {
+    padding-top: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.nav-link {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+.navbar-text {
+    color: #6c757d;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.table th a {
+    color: white;
+    text-decoration: none;
+}
+
+.table th a:hover {
+    color: lightgray;
+    text-decoration: underline;
+}
+
+.sort-button {
+    border: none;
+    background: none;
+    color: white;
+    font-size: 0.9rem;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.sort-button:hover .sort-symbol {
+    color: lightgray;
+}
+
+.sort-symbol {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 0.8rem;
+}
+
+.sort-active .sort-symbol {
+    color: yellow; /* Highlight the active sort symbol */
+}
+
+.d-flex.align-items-center .sort-symbol {
+    margin-left: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1200px; /* Increase the max-width for the container */
+}

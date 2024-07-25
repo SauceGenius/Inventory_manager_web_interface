@@ -1,0 +1,516 @@
+﻿RM#,Location,Lot #,Product Name,Nature of Product,# of boxes,Packages / Box,Units / Package,Units,Total (un),Label grams,Total (g),Total (KG)
+110,A1,426,Medellin,Popcorn,21,1000,1,1140,"22,140",1,"22,139.60",22.14
+110,A1,443,Medellin,QA|Popcorn,20,1000,1,883,"20,883",1,"20,883.00",20.883
+110,A2,239,Sage N Sour,Shred,,,,274,274,1,274,0.274
+110,A2,331B,Neville Haze,Popcorn,11,1000,1,494,"11,494",1,"11,493.50",11.494
+110,A2,333,Gas Paradise,Popcorn,,,,710,710,1,710,0.71
+110,A2,342,Cherry Noir,Shred,,,,1700,"1,700",1,"1,700.00",1.7
+110,A2,390,Blueberry Kush,Popcorn,3,1000,1,289,"3,289",1,"3,288.90",3.289
+110,A2,401,Chemdawg,Popcorn,14,1000,1,762,"14,762",1,"14,761.70",14.762
+110,B1,291,Banana Daddy,Large Flower,,,,2085,"2,085",1,"2,084.90",2.085
+110,B1,318,Super Lemon Haze,Large Flower,6,1000,1,101,"6,101",1,"6,101.00",6.101
+110,B1,318,Super Lemon Haze,Shake,,,,869,869,1,869,0.869
+110,B1,319,Blue Cheese,Large Flower,,,,2643,"2,643",1,"2,643.10",2.643
+110,B1,319,Blue Cheese,Popcorn/Shake,,,,2734,"2,734",1,"2,733.80",2.734
+110,B1,395,Chemdawg,Popcorn,32,1000,1,749,"32,749",1,"32,749.10",32.749
+110,B1,403,Medellin,Shake,41,1500,1,1248,"62,748",1,"62,748.00",62.748
+110,B2,229,Cherry Noir,Popcorn,5,1000,1,1417,"6,417",1,"6,417.00",6.417
+110,B2,231,Medellin,Popcorn,,,,399,399,1,399,0.399
+110,B2,244,Sage N Sour,Popcorn,,,,140,140,1,140,0.14
+110,B2,245,Sage N Sour,Popcorn,8,1000,1,1076,"9,076",1,"9,075.60",9.076
+110,B2,280,Gas Paradise,Popcorn,10,1000,1,672,"10,672",1,"10,671.60",10.672
+110,B2,387,Chemdawg,Popcorn,10,1000,1,1055,"11,055",1,"11,054.50",11.055
+110,C1,208,Mandarin,Popcorn,,,,1363,"1,363",1,"1,363.00",1.363
+110,C1,233,Mandarin,Popcorn,,,,3047,"3,047",1,"3,047.00",3.047
+110,C1,238,Mandarin,Popcorn,,,,943,943,1,943,0.943
+110,C1,364,Medellin,Popcorn,,,,1974,"1,974",1,"1,974.00",1.974
+110,C1,364,Medellin,Large Flower,18,1000,1,1055,"19,055",1,"19,055.00",19.055
+110,C1,208A,Mandarin,Popcorn,,,,434,434,1,434.2,0.434
+110,C1,441,Blue Dream,QA|Shake,18,1500,1,755,"27,755",1,"27,755.30",27.755
+110,C2,384,Chemdawg,Popcorn,21,1000,1,833,"21,833",1,"21,832.50",21.833
+110,D1,304,Blue Chemo,Large Flower,35,1000,1,517,"35,517",1,"35,517.00",35.517
+110,D1,401,Chemdawg,RND|Large Flower,,,,2746,"2,746",1,"2,745.70",2.746
+110,D1,MIX,RND,RND|Large Flower,,,,30663,"30,663",1,"30,663.00",30.663
+110,E1,371,Cherry Noir,QA|Large Flower,43,1000,1,465,"43,465",1,"43,465.00",43.465
+110,E1,383,Cherry Noir,Shake,40,1500,1,676,"60,676",1,"60,676.20",60.676
+110,E1,402,Blue Dream,Popcorn,18,1000,1,981,"18,981",1,"18,980.70",18.981
+110,E1,402,Blue Dream,Large Flower,30,1000,1,,"30,000",1,"30,000.00",30
+110,E1,429,Chemdawg,Large Flower,60,1000,1,3261,"63,261",1,"63,261.30",63.261
+110,E1,431,Cherry Noir,Popcorn,8,1000,1,1230,"9,230",1,"9,230.00",9.23
+110,E1,431,Cherry Noir,Shake,32,1500,1,476,"48,476",1,"48,475.50",48.476
+110,E1,430,Chemdawg,QA|Shake,10,1500,1,1488,"16,488",1,"16,488.40",16.488
+110,E1,430,Chemdawg,QA|Large Flower,48,1000,1,564,"48,564",1,"48,563.70",48.564
+110,E1,430,Chemdawg,QA|Popcorn,3,1000,1,650,"3,650",1,"3,650.00",3.65
+110,E1,441,Blue Dream,QA|Popcorn,11,1000,1,573,"11,573",1,"11,573.00",11.573
+110,E2,398,Cherry Noir,QA|Large Flower,64,1000,1,283,"64,283",1,"64,282.60",64.283
+110,E2,331B,Neville Haze,Large Flower,48,1000,1,,"48,000",1,"48,000.00",48
+110,E2,439,Chemdawg,QA|Large Flower,54,1000,1,450,"54,450",1,"54,450.00",54.45
+110,E2,443,Medellin,QA|Large Flower,79,1000,1,718,"79,718",1,"79,718.00",79.718
+110,E3,442,Chemdawg,QA|Large Flower,108,1000,1,593,"108,593",1,"108,592.50",108.593
+110,E3,442,Chemdawg,QA|Popcorn,13,1000,1,651,"13,651",1,"13,651.00",13.651
+110,E3,442,Chemdawg,QA|Shake,20,1500,1,609,"30,609",1,"30,609.40",30.609
+110,F1,394,Sweet Stripe,QA|Large Flower,,,,1754,"1,754",1,"1,754.00",1.754
+110,F1,394,Sweet Stripe,QA|Popcorn,,,,325,325,1,325,0.325
+110,F1,394,Sweet Stripe,QA|Shake,,,,797,797,1,797,0.797
+110,F1,437,Monkey Berry,QA|Popcorn,,,,2003,"2,003",1,"2,003.00",2.003
+110,F1,437,Monkey Berry,QA|Shake,,,,1405,"1,405",1,"1,405.00",1.405
+110,F1,291,Banana Daddy,Shake,,,,1307,"1,307",1,"1,306.90",1.307
+110,F1,352,Purple Chitral,Popcorn,,,,3993,"3,993",1,"3,993.30",3.993
+110,F1,374,Gas Paradise,Popcorn,,,,2621,"2,621",1,"2,621.20",2.621
+110,F1,395,Chemdawg,Popcorn,,,,325,325,1,325,0.325
+110,F1,396,Chemdawg,Shake,,,,997,997,1,997.2,0.997
+110,F1,400,Gas Paradise,Popcorn,5,1000,1,885,"5,885",1,"5,885.00",5.885
+110,F1,403,Medellin,Large Flower,,,,4000,"4,000",1,"4,000.00",4
+110,F1,426,Medellin,Large Flower,,,,2068,"2,068",1,"2,068.00",2.068
+110,F1,208A,Mandarin,Shake,,,,1131,"1,131",1,"1,131.00",1.131
+110,F1,M302273,Gelonade,Popcorn,2,1000,1,481,"2,481",1,"2,481.00",2.481
+110,F2,364,Medellin,Popcorn,27,1000,1,626,"27,626",1,"27,626.00",27.626
+110,F2,393,Medellin,Popcorn,10,1000,1,1780,"11,780",1,"11,780.00",11.78
+110,G1,306,Medellin,Popcorn,13,1000,1,980,"13,980",1,"13,980.00",13.98
+110,G1,441,Blue Dream,QA|Large Flower,36,1000,1,176,"36,176",1,"36,176.00",36.176
+110,G2,289,Gelonade,Large Flower,12,1000,1,,"12,000",1,"12,000.00",12
+110,G2,289,Gelonade,Popcorn,,,,6722,"6,722",1,"6,722.00",6.722
+110,G2,304,Blue Chemo,Popcorn,19,1000,1,598,"19,598",1,"19,598.00",19.598
+110,H1,439,Chemdawg,QA|Popcorn,5,1000,1,277,"5,277",1,"5,277.00",5.277
+110,H1,439,Chemdawg,QA|Shake,9,1500,1,385,"13,885",1,"13,885.00",13.885
+110,H1,432,Chemdawg,Popcorn,12,1000,1,684,"12,684",1,"12,684.00",12.684
+110,H1,432,Chemdawg,Shake,24,1500,1,1941,"37,941",1,"37,940.50",37.941
+110,H2,365,Chemdawg,Popcorn,9,1000,1,614,"9,614",1,"9,614.00",9.614
+110,I1,440,Blue Chemo,QA|Large Flower,,,,21647,"21,647",1,"21,647.00",21.647
+110,I1,440,Blue Chemo,QA|Popcorn,,,,10240,"10,240",1,"10,240.00",10.24
+110,I1,397,Gas Paradise,Popcorn,,,,1533,"1,533",1,"1,533.00",1.533
+110,I1,397,Gas Paradise,Large Flower,29,1000,1,592,"29,592",1,"29,592.00",29.592
+110,I1,429,Chemdawg,Popcorn,26,1000,,917,917,1,917,0.917
+110,I2,440,Blue Chemo,QA|Shake,,,,29402,"29,402",1,"29,401.80",29.402
+110,I2,M302273,Gelonade,Large Flower,16,1000,1,559,"16,559",1,"16,559.00",16.559
+110,I2,443,Medellin,QA|Shake,30,1500,1,1002,"46,002",1,"46,001.50",46.002
+110,J1,398,Cherry Noir,QA|Shake,24,1500,1,1440,"37,440",1,"37,440.00",37.44
+110,J1,370,Cherry Noir,Shake,36,1500,1,1001,"55,001",1,"55,001.00",55.001
+111,,403,Medellin,Large Flower,,,,22829,"22,829",1,"22,828.70",22.829
+111,,403,Medellin,Popcorn/Shake,,,,1725,"1,725",1,"1,724.70",1.725
+111,,403,Medellin,RND,,,,20,20,1,19.7,0.02
+111,,106416,Chemdawg,Hash,,,,14338,"14,338",1,"14,338.44",14.338
+111,,400,Gas Paradise,Large Flower,,,,16432,"16,432",1,"16,431.60",16.432
+111,,388,Medellin,Shred,,,,13900,"13,900",1,"13,900.00",13.9
+111,,388,Medellin,Prérouler 0.35,,,,1197,"1,197",0.35,418.95,0.419
+111,,388,Medellin,Defect|Prérouler 0.35,,,,170,170,0.35,59.5,0.06
+111,,343,Chemdawg,Shred,,,,4812,"4,812",1,"4,812.00",4.812
+111,,343,Chemdawg,Prérouler 0.6,,,,8073,"8,073",0.6,"4,843.80",4.844
+111,,NP383,Cherry Noir,Shred,,,,3478,"3,478",1,"3,477.70",3.478
+111,,432,Chemdawg,Large Flower,,,,2197,"2,197",1,"2,196.80",2.197
+111,,432,Chemdawg,Popcorn/Shake,,,,7529,"7,529",1,"7,529.00",7.529
+111,,432,Chemdawg,RND,,,,116,116,1,115.5,0.116
+111,,432,Chemdawg,Pouches 3.5,175,24,1,,"4,200",3.5,"14,700.00",14.7
+111,,432,Chemdawg,Pouches 15.0,100,12,1,,"1,200",15,"18,000.00",18
+111,,NP383,Cherry Noir,Pouches 15.0,18,24,1,,432,15,"6,480.00",6.48
+111,,87980,Apple Fritter,Pouches 28.0,50,12,1,,600,28,"16,800.00",16.8
+111,,PNL-S03,Platinum Northen Lights,Pouches 28.0,10,12,1,,120,28,"3,360.00",3.36
+111,,403,Medellin,Pouches 3.5,42,24,1,,"1,008",3.5,"3,528.00",3.528
+111,RACK,ICC0416/431,Cherry Noir,Pouches 7.0,13,12,1,,156,7,"1,092.00",1.092
+111,RACK,396H,Chemdawg,Hash 3.0,28,24,1,,672,3,"2,016.00",2.016
+111,RACK,390,Blueberry Kush,Jars 3.5,15,24,1,,360,3.5,"1,260.00",1.26
+111,RACK,269,Blue Chemo,Jars 3.5,6,24,1,,144,3.5,504,0.504
+111,,386,Purple Chitral,Jars 3.5,9,24,1,,216,3.5,756,0.756
+111,,402,Blue Dream,Pouches 3.5,11,24,1,,264,3.5,924,0.924
+111,,SSW23V2,Sweet N Sour,Pouches 3.5,2,24,1,,48,3.5,168,0.168
+111,,10403760-01,Liquid Imagination,Prérouler 0.75,10,48,3,,"1,440",0.75,"1,080.00",1.08
+111,,246261H,Cherry Noir/Mandarin,Hash 1.0,9,24,1,,216,1,216,0.216
+111,,246261H,Cherry Noir/Mandarin,Hash 2.0,2,24,1,,48,2,96,0.096
+111,,238260H,Cherry Noir/Mandarin,Hash 2.0,1,24,1,,24,2,48,0.048
+111,,374,Gas Paradise,Pouches 15.0,4,12,1,,48,15,720,0.72
+111,,388H,Medellin,Hash,,,,9016,"9,016",1,"9,015.51",9.016
+111,,MAC109,Alien Cookies,Pouches 1.0,2,48,1,,96,1,96,0.096
+115,A1,185,Mandarin,Prérouler 0.6,1,48,3,,144,0.6,86.4,0.086
+115,A1,374,Gas Paradise,Pouches 15.0,1,1,1,,1,15,15,0.015
+115,A1,386,Purple Chitral,Jars 3.5,26,24,1,,624,3.5,"2,184.00",2.184
+115,A1,386,Purple Chitral,Large Flower,,,,7141,"7,141",1,"7,141.40",7.141
+115,A1,386,Purple Chitral,Popcorn/Shake,,,,8757,"8,757",1,"8,757.30",8.757
+115,A1,386,Purple Chitral,RND,,,,47,47,1,46.5,0.047
+115,A1,395,Sage N Sour,Pouches 3.5,1,3,1,,3,3.5,10.5,0.011
+115,A1,399,Sage N Sour,Pouches 15.0,1,1,1,,1,15,15,0.015
+115,A1,399,Sage N Sour,Pouches 3.5,1,1,1,,1,3.5,3.5,0.004
+115,A1,432,Sage N Sour,Pouches 3.5,105,24,1,,"2,520",3.5,"8,820.00",8.82
+115,A1,208A,Mandarin,Large Flower,,,,4760,"4,760",1,"4,759.50",4.76
+115,A1,208A,Mandarin,Popcorn/Shake,,,,104,104,1,104,0.104
+115,A1,MAC109,Alien Cookies,Pouches 1.0,15,48,1,7,727,1,727,0.727
+115,A1,MAC109,Alien Cookies,Large Flower,,,,2172,"2,172",1,"2,171.60",2.172
+115,A1,MAC109,Alien Cookies,Popcorn/Shake,,,,166,166,1,166.1,0.166
+115,A1,MAC109,Alien Cookies,RND,,,,5,5,1,4.5,0.005
+115,A1,238260H,Cherry Noir/Mandarin,Hash 1.0,1,2,1,,2,1,2,0.002
+115,A1,220329,Sage N Sour,Hash,,,,188,188,1,187.6,0.188
+115,A2,352,Purple Chitral,Jars 3.5,12,24,1,,288,3.5,"1,008.00",1.008
+115,A2,352,Purple Chitral,Large Flower,,,,20712,"20,712",1,"20,712.10",20.712
+115,A2,352,Purple Chitral,Popcorn/Shake,,,,1732,"1,732",1,"1,731.50",1.732
+115,A2,352,Purple Chitral,RND,,,,21,21,1,21.4,0.021
+115,A2,390,Blueberry Kush,Large Flower,,,,10005,"10,005",1,"10,004.80",10.005
+115,A2,390,Blueberry Kush,Popcorn/Shake,,,,3830,"3,830",1,"3,830.10",3.83
+115,A2,390,Blueberry Kush,RND,,,,69,69,1,69.2,0.069
+115,A2,390,Blueberry Kush,Jars 3.5,29,24,1,,696,3.5,"2,436.00",2.436
+115,A2,432,Sage N Sour,Pouches 3.5,81,24,1,,"1,944",3.5,"6,804.00",6.804
+115,A2,87980,Apple Fritter,Large Flower,,,,30609,"30,609",1,"30,608.50",30.609
+115,A2,87980,Apple Fritter,Popcorn/Shake,,,,1046,"1,046",1,"1,045.50",1.046
+115,A2,87980,Apple Fritter,RND,,,,41,41,1,41,0.041
+115,B1,396H,Chemdawg,Hash,,,,11,11,1,11.3,0.011
+115,B1,396H,Chemdawg,RND|Hash,,,,14,14,1,13.8,0.014
+115,B1,343,Chemdawg,Shred,,,,13500,"13,500",1,"13,500.00",13.5
+115,B1,343,Chemdawg,Prérouler 0.6,,,,250,250,0.6,150,0.15
+115,B1,402,Blue Dream,Pouches 3.5,2,24,1,,48,3.5,168,0.168
+115,B1,402,Blue Dream,Large Flower,,,,2229,"2,229",1,"2,229.30",2.229
+115,B1,402,Blue Dream,Popcorn/Shake,,,,194,194,1,193.5,0.194
+115,B1,402,Blue Dream,RND,,,,13,13,1,12.97,0.013
+115,B1,331B,Neville Haze,Large Flower,,,,1557,"1,557",1,"1,556.70",1.557
+115,B1,331B,Neville Haze,Popcorn/Shake,,,,2700,"2,700",1,"2,699.70",2.7
+115,B1,331B,Neville Haze,RND,,,,45,45,1,45.1,0.045
+115,B1,246261H,Cherry Noir/Mandarin,Hash 2.0,1,18,1,,18,2,36,0.036
+115,B1,ICC0416,ICC Sorbet,Pouches 3.5,1,2,1,,2,3.5,7,0.007
+115,B1,ICC0416,ICC Sorbet,Large Flower,,,,3903,"3,903",1,"3,902.50",3.903
+115,B1,ICC0416,ICC Sorbet,Popcorn/Shake,,,,1753,"1,753",1,"1,753.20",1.753
+115,B1,ICC0416,ICC Sorbet,RND,,,,29,29,1,29.3,0.029
+115,B1,PNL-S03,Platinum Northen Lights,Pouches 28.0,6,12,1,,72,28,"2,016.00",2.016
+115,B1,PR286393,Medellin/Purple Chitral,Shred,,,,2832,"2,832",1,"2,831.90",2.832
+115,B1,PR286393,Medellin/Purple Chitral,Defect|Prérouler 0.35,,,,6,6,0.35,2.1,0.002
+115,B1,PR286393,Medellin/Purple Chitral,RND|Prérouler 0.35,,,,12,12,0.35,4.2,0.004
+115,B1,PR286393,Medellin/Purple Chitral,Prérouler 0.35,,,,2348,"2,348",0.35,821.8,0.822
+115,B1,SSW23V2,Sweet N Sour,Pouches 3.5,14,24,1,,336,3.5,"1,176.00",1.176
+115,B2,431,Cherry Noir,Large Flower,,,,54133,"54,133",1,"54,133.00",54.133
+115,B2,431,Cherry Noir,Popcorn/Shake,,,,2631,"2,631",1,"2,631.10",2.631
+115,B2,431,Cherry Noir,RND,,,,36,36,1,35.5,0.036
+115,B2,ICC0416/431,Cherry Noir,Pouches 7.0,1,22,1,,22,7,154,0.154
+115,B2,SSW23V2,Sweet N Sour,Prérouler 0.6,,,,650,650,0.6,390,0.39
+115,B2,SSW23V2,Sweet N Sour,Shred,,,,1306,"1,306",1,"1,306.00",1.306
+115,B2,SSW23V2,Sweet N Sour,Defect|Prérouler 0.6,,,,198,198,0.6,118.8,0.119
+115,B2,SSW23V2,Sweet N Sour,RND|Prérouler 0.6,,,,1,1,0.6,0.6,0.001
+115,C1,246261H,Cherry Noir/Mandarin,Hash,,,,1512,"1,512",1,"1,512.00",1.512
+115,C1,269,Blue Chemo,Large Flower,,,,10763,"10,763",1,"10,763.00",10.763
+115,C1,269,Blue Chemo,RND,,,,106,106,1,106,0.106
+115,C1,269,Blue Chemo,Jars 3.5,17,24,1,,408,3.5,"1,428.00",1.428
+115,C1,403,Medellin,Large Flower,,,,12000,"12,000",1,"12,000.00",12
+115,C1,246261H,Cherry Noir/Mandarin,RND|Hash,,,,4,4,1,4,0.004
+115,C1,246261H,Cherry Noir/Mandarin,Hash 1.0,15,24,1,,360,1,360,0.36
+115,C1,269PR,Blue Chemo,QA|Prérouler 0.35,,,,18334,"18,334",0.35,"6,416.90",6.417
+115,C1,274PR,Blue Chemo,QA|Prérouler 0.35,,,,14152,"14,152",0.35,"4,953.20",4.953
+115,C1,AF0341,Apple Fritter,Popcorn/Shake,,,,2639,"2,639",1,"2,638.90",2.639
+115,C1,AF0341,Apple Fritter,RND,,,,24,24,1,24.2,0.024
+115,C1,PNL-S03,Platinum Northen Lights,Large Flower,,,,324,324,1,323.7,0.324
+115,C1,PNL-S03,Platinum Northen Lights,Popcorn/Shake,,,,531,531,1,531.1,0.531
+115,C1,PNL-S03,Platinum Northen Lights,RND,,,,24,24,1,23.7,0.024
+115,C1,SD0239,Sundae Driver,Popcorn/Shake,,,,1867,"1,867",1,"1,866.80",1.867
+115,C1,SD0239,Sundae Driver,RND,,,,57,57,1,56.5,0.057
+115,C1,395H,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,C1,395H,Sage N Sour,Hash,,,,10,10,1,9.9,0.01
+115,C1,395H,Sage N Sour,RND|Hash,,,,6,6,1,5.8,0.006
+115,C2,343,Chemdawg,RND|Shake,,,,1931,"1,931",1,"1,930.70",1.931
+115,C2,368,Blueberry Kush,Popcorn,,,,2556,"2,556",1,"2,555.50",2.556
+115,C2,368,Blueberry Kush,Popcorn/Shake,,,,1405,"1,405",1,"1,405.10",1.405
+115,C2,368,Blueberry Kush,RND,,,,52,52,1,51.6,0.052
+115,C2,374,Gas Paradise,Popcorn,,,,322,322,1,321.5,0.322
+115,C2,374,Gas Paradise,Popcorn/Shake,,,,7611,"7,611",1,"7,611.00",7.611
+115,C2,374,Gas Paradise,RND,,,,79,79,1,78.6,0.079
+115,C2,386,Purple Chitral,Popcorn,,,,1524,"1,524",1,"1,523.50",1.524
+115,C2,388,Medellin,RND|Large Flower,,,,145,145,1,144.7,0.145
+115,C2,388,Medellin,RND|Shred,,,,398,398,1,397.7,0.398
+115,C2,400,Gas Paradise,Large Flower,,,,12000,"12,000",1,"12,000.00",12
+115,C2,250PR,Blue Chemo,Prérouler 0.35,21,48,3,3300,"6,324",0.35,"2,213.40",2.213
+115,C2,250PR,Blue Chemo,RND|Prérouler 0.35,,,,6,6,0.35,2.1,0.002
+115,C2,250PR,Blue Chemo,Defect|Prérouler 0.35,,,,205,205,0.35,71.75,0.072
+115,C2,265PR,Blue Chemo,Prérouler 0.35,,,,26900,"26,900",0.35,"9,415.00",9.415
+115,C2,AF0319,Apple Fritter,Popcorn/Shake,,,,1647,"1,647",1,"1,646.70",1.647
+115,C2,AF0319,Apple Fritter,RND,,,,0,0,1,0.3,0
+115,C2,AF2402,Apple Fritter,Popcorn/Shake,,,,518,518,1,518.4,0.518
+115,C2,AF2402,Apple Fritter,Shake,,,,516,516,1,515.7,0.516
+115,C2,AF2402,Apple Fritter,RND,,,,12,12,1,11.8,0.012
+115,C2,AF2402,Apple Fritter,Bud Rot,,,,4109,"4,109",1,"4,108.70",4.109
+115,D1,203,Sage N Sour,Popcorn/Shake,,,,996,996,1,995.9,0.996
+115,D1,207,Sage N Sour,Popcorn,,,,795,795,1,794.9,0.795
+115,D1,207,Sage N Sour,Shake,,,,412,412,1,411.6,0.412
+115,D1,209,Sage N Sour,Popcorn,,,,1194,"1,194",1,"1,194.40",1.194
+115,D1,209,Sage N Sour,Shake,,,,472,472,1,471.5,0.472
+115,D1,245,Sage N Sour,Large Flower,,,,1861,"1,861",1,"1,860.80",1.861
+115,D1,245,Sage N Sour,Popcorn/Shake,,,,7306,"7,306",1,"7,306.30",7.306
+115,D1,245,Sage N Sour,RND,,,,4,4,1,4.3,0.004
+115,D1,249,Sage N Sour,Popcorn/Shake,,,,9296,"9,296",1,"9,296.00",9.296
+115,D1,249,Sage N Sour,RND,,,,78,78,1,78,0.078
+115,D1,372,Sage N Sour,Popcorn/Shake,,,,13385,"13,385",1,"13,385.00",13.385
+115,D1,384,Sage N Sour,Popcorn/Shake,,,,22646,"22,646",1,"22,646.40",22.646
+115,D1,384,Sage N Sour,RND,,,,129,129,1,128.66,0.129
+115,D1,387,Sage N Sour,Popcorn/Shake,,,,19230,"19,230",1,"19,230.00",19.23
+115,D1,387,Sage N Sour,RND,,,,189,189,1,189,0.189
+115,D1,395,Chemdawg,Popcorn/Shake,,,,5574,"5,574",1,"5,574.00",5.574
+115,D1,395,Sage N Sour,Popcorn/Shake,,,,28266,"28,266",1,"28,266.00",28.266
+115,D1,399,Sage N Sour,Popcorn/Shake,,,,13127,"13,127",1,"13,126.90",13.127
+115,D1,399,Sage N Sour,RND,,,,207,207,1,206.7,0.207
+115,D1,401,Chemdawg,Popcorn/Shake,,,,15848,"15,848",1,"15,848.10",15.848
+115,D1,401,Chemdawg,RND,,,,154,154,1,154.1,0.154
+115,D2,98,Mandarin,Prérouler 0.6,1,5,3,,15,0.6,9,0.009
+115,D2,110,Mandarin,Popcorn,,,,731,731,1,731.1,0.731
+115,D2,110,Mandarin,Shake,,,,176,176,1,176.1,0.176
+115,D2,115,Mandarin,Popcorn,,,,121,121,1,121.1,0.121
+115,D2,115,Mandarin,Shake,,,,1909,"1,909",1,"1,909.10",1.909
+115,D2,179,Mandarin,Prérouler 0.6,1,7,3,,21,0.6,12.6,0.013
+115,D2,185,Mandarin,Prérouler 0.6,1,2,3,,6,0.6,3.6,0.004
+115,D2,185,Mandarin,Prérouler 0.6,,,,1328,"1,328",0.6,796.8,0.797
+115,D2,185,Mandarin,Prérouler 0.6,1,1,144,,144,0.6,86.4,0.086
+115,D2,185,Mandarin,Shred,,,,404,404,1,404,0.404
+115,D2,233,Mandarin,Popcorn/Shake,,,,5739,"5,739",1,"5,738.50",5.739
+115,D2,246,Mandarin,Popcorn/Shake,,,,10516,"10,516",1,"10,516.00",10.516
+115,D2,250,Blue Chemo,RND|Jars 3.5,1,27,1,,27,3.5,94.5,0.095
+115,D2,303,Sage N Sour,RND|Shred,,,,577,577,1,577,0.577
+115,D2,208B,Mandarin,Large Flower,,,,9199,"9,199",1,"9,199.40",9.199
+115,D2,208B,Mandarin,Popcorn/Shake,,,,3076,"3,076",1,"3,076.30",3.076
+115,D2,208B,Mandarin,Popcorn,,,,3117,"3,117",1,"3,117.00",3.117
+115,D2,208B,Mandarin,Shake,,,,1477,"1,477",1,"1,477.00",1.477
+115,D2,AF2401,Apple Fritter,Bud Rot,,,,2876,"2,876",1,"2,876.00",2.876
+115,D2,MIXED,Sage N Sour,RND|Shake,,,,1459,"1,459",1,"1,459.43",1.459
+115,E1,159185H,Cherry Noir/Mandarin,Hash 1.0,1,15,1,,15,1,15,0.015
+115,E1,159185H,Cherry Noir/Mandarin,Hash 1.0,1,23,1,,23,1,23,0.023
+115,E1,159185H,Cherry Noir/Mandarin,RND|Hash,,,,3,3,1,3.2,0.003
+115,E1,176208H,Cherry Noir/Mandarin,Hash 1.0,1,2,1,,2,1,2,0.002
+115,E1,98,Mandarin,Jars 3.5,1,217,1,,217,3.5,759.5,0.76
+115,E1,115,Mandarin,Jars 3.5,1,26,1,,26,3.5,91,0.091
+115,E1,179,Mandarin,Jars 3.5,1,27,1,,27,3.5,94.5,0.095
+115,E1,185,Mandarin,Jars 3.5,1,80,1,,80,3.5,280,0.28
+115,E1,176208H,Cherry Noir/Mandarin,Hash 1.0,1,23,1,,23,1,23,0.023
+115,E1,176208H,Cherry Noir/Mandarin,RND|Hash,,,,19,19,1,18.9,0.019
+115,E1,179201H,Cherry Noir/Mandarin,RND|Hash,,,,54,30,1,30,0.03
+115,E1,179201H,Cherry Noir/Mandarin,Hash 2.0,1,2,1,,2,2,4,0.004
+115,E1,185201H,Cherry Noir/Mandarin,Hash 2.0,1,6,1,,6,2,12,0.012
+115,E1,185201H,Cherry Noir/Mandarin,RND|Hash,,,,21,21,1,21.3,0.021
+115,E1,208210H,Cherry Noir/Mandarin,Hash 2.0,1,120,1,,120,2,240,0.24
+115,E1,208210H,Cherry Noir/Mandarin,Hash 2.0,1,10,1,,10,2,20,0.02
+115,E1,208210H,Cherry Noir/Mandarin,RND|Hash,,,,4,4,1,3.9,0.004
+115,E1,213201H,Cherry Noir/Mandarin,Hash 2.0,1,2,1,,2,2,4,0.004
+115,E1,213201H,Cherry Noir/Mandarin,RND|Hash,,,,89,89,1,88.5,0.089
+115,E1,213210H,Cherry Noir/Mandarin,RND|Hash,,,,30,30,1,29.76,0.03
+115,E1,213229H,Cherry Noir/Mandarin,Hash 2.0,1,1,1,,1,2,2,0.002
+115,E1,213229H,Cherry Noir/Mandarin,RND|Hash,,,,20,20,1,20,0.02
+115,E1,233229H,Cherry Noir/Mandarin,RND|Hash,,,,4,4,1,4,0.004
+115,E1,233229H2,Cherry Noir/Mandarin,RND|Hash,,,,12,12,1,11.9,0.012
+115,E1,238260H,Cherry Noir/Mandarin,RND|Hash,,,,20,20,1,20,0.02
+115,E1,EXLOS2ZCA4GYRN,Cherry Noir/Mandarin,RND|Hash 2.0,1,403,1,,403,2,806,0.806
+115,E1,EXLOS2ZCA4GYRN,Cherry Noir/Mandarin,RND|Hash,,,,167,167,1,167,0.167
+115,E1,EXLQBXZTWNO5JR,Cherry Noir/Mandarin,RND|Hash 2.0,1,400,1,,400,2,800,0.8
+115,E1,EXLQBXZTWNO5JR,Cherry Noir/Mandarin,RND|Hash,,,,176,176,1,176,0.176
+115,E1,364H,Medellin,RND|Hash,,,,90,90,1,90,0.09
+115,E1,364H,Medellin,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,INCONNU,RND,Finger Hash,,,,1538,"1,538",1,"1,538.00",1.538
+115,E1,208A,Mandarin,Jars 3.5,1,61,1,,61,3.5,213.5,0.214
+115,E1,208B,Mandarin,Jars 3.5,1,31,1,,31,3.5,108.5,0.109
+115,E1,208B,Mandarin,Jars 3.5,1,21,1,,21,3.5,73.5,0.074
+115,E1,141171H,Sage N Sour,RND|Hash,,,,25,25,1,25,0.025
+115,E1,141171H,Sage N Sour,Hash 3.0,1,5,1,,5,3,15,0.015
+115,E1,143160H,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,143160H,Sage N Sour,RND|Hash,,,,94,94,1,93.9,0.094
+115,E1,143H,Sage N Sour,Hash 3.0,1,22,1,,22,3,66,0.066
+115,E1,143H,Sage N Sour,RND|Hash,,,,9,9,1,8.9,0.009
+115,E1,154H,Sage N Sour,Hash 3.0,1,12,1,,12,3,36,0.036
+115,E1,154H,Sage N Sour,RND|Hash,,,,18,18,1,17.9,0.018
+115,E1,155181H,Sage N Sour,Hash 3.0,1,26,1,,26,3,78,0.078
+115,E1,155181H,Sage N Sour,RND|Hash,,,,31,31,1,30.62,0.031
+115,E1,172178H,Sage N Sour,Hash 3.0,1,2,1,,2,3,6,0.006
+115,E1,172178H,Sage N Sour,RND|Hash,,,,91,91,1,90.9,0.091
+115,E1,173H,Sage N Sour,Hash 3.0,1,19,1,,19,3,57,0.057
+115,E1,173H,Sage N Sour,RND|Hash,,,,30,30,1,30.4,0.03
+115,E1,233C,Mandarin,Jars 3.5,1,47,1,,47,3.5,164.5,0.165
+115,E1,203H,Sage N Sour,Hash 3.0,1,2,1,,2,3,6,0.006
+115,E1,203H,Sage N Sour,RND|Hash,,,,27,27,1,27.1,0.027
+115,E1,207H,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,207H,Sage N Sour,RND|Hash,,,,39,39,1,38.5,0.039
+115,E1,209H,Sage N Sour,Hash 3.0,1,9,1,,9,3,27,0.027
+115,E1,209H,Sage N Sour,RND|Hash,,,,79,79,1,79.3,0.079
+115,E1,211H,Sage N Sour,Hash 3.0,1,24,1,,24,3,72,0.072
+115,E1,211H,Sage N Sour,RND|Hash,,,,66,71,1,70.5,0.071
+115,E1,215217H,Sage N Sour,RND|Hash,,,,536,536,1,536,0.536
+115,E1,217232H,Sage N Sour,Hash 3.0,1,5,1,,5,3,15,0.015
+115,E1,217232H,Sage N Sour,RND|Hash,,,,45,45,1,44.5,0.045
+115,E1,235237H,Sage N Sour,Hash 3.0,1,6,1,,6,3,18,0.018
+115,E1,235237H,Sage N Sour,RND|Hash,,,,146,146,1,146,0.146
+115,E1,243241H,Sage N Sour,RND|Hash,,,,66,66,1,65.76,0.066
+115,E1,247239H,Sage N Sour,Hash 3.0,1,3,1,,3,3,9,0.009
+115,E1,247239H,Sage N Sour,RND|Hash,,,,72,72,1,72,0.072
+115,E1,249H,Sage N Sour,RND|Hash,,,,20,20,1,19.52,0.02
+115,E1,272259H,Sage N Sour,RND|Hash,,,,46,46,1,46,0.046
+115,E1,277H,Sage N Sour,Hash 3.0,1,72,1,,72,3,216,0.216
+115,E1,277H,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,277H,Sage N Sour,RND|Hash,,,,34,37,1,37,0.037
+115,E1,277H2,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,277H2,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,277H2,Sage N Sour,RND|Hash,,,,57,57,1,57,0.057
+115,E1,281266H,Sage N Sour,Hash 3.0,1,2,1,,2,3,6,0.006
+115,E1,281266H,Sage N Sour,RND|Hash,,,,48,48,1,48,0.048
+115,E1,384H,Sage N Sour,RND|Hash,,,,18,18,1,18,0.018
+115,E1,303H,Sage N Sour,Hash 3.0,1,1,1,,1,3,3,0.003
+115,E1,303H,Sage N Sour,RND|Hash,,,,64,64,1,64,0.064
+115,E1,334244H,Sage N Sour,RND|Hash,,,,32,32,1,32.16,0.032
+115,E1,343H,Sage N Sour,RND|Hash,,,,58,58,1,57.76,0.058
+115,E1,MIX-NUANCE-RETOUR,Sage N Sour,Shred,,,,34357,"34,357",1,"34,357.19",34.357
+115,E1,372H,Sage N Sour,RND|Hash,,,,17,17,1,17,0.017
+115,E1,387365H,Sage N Sour,RND|Hash,,,,22,22,1,22,0.022
+115,E1,ORNA-02,Sage N Sour,Shred,,,,44616,"44,616",1,"44,616.00",44.616
+115,E1,SNSORNA-01,Sage N Sour,Shred,,,,5940,"5,940",1,"5,940.30",5.94
+115,E1,INCONNU,Sage N Sour,Bubble Hash,,,,2149,"2,149",1,"2,149.00",2.149
+115,E1,ON2210H,Sage N Sour,Hash 3.0,1,4,1,,4,3,12,0.012
+115,E1,ON2210H,Sage N Sour,RND|Hash,,,,67,67,1,66.8,0.067
+115,E2,RETOUR_SQDC_202404,Mixed,Hash 1.0,1,11,1,,11,1,11,0.011
+115,E2,RETOUR_SQDC_202404,Mixed,Hash 2.0,1,2,1,,2,2,4,0.004
+115,E2,RETOUR_SQDC_202404,Mixed,Hash 3.0,1,29,1,,29,3,87,0.087
+115,E2,105985,RND,QA|Large Flower,,,,154646,"154,646",1,"154,646.20",154.646
+115,E2,RETOUR_SQDC_202404,Mixed,Jars 3.5,1,20,1,,20,3.5,70,0.07
+115,E2,RETOUR_SQDC_202404,Mixed,Pouches 15.0,1,34,1,,34,15,510,0.51
+115,E2,RETOUR_SQDC_202404,Mixed,Pouches 3.5,1,218,1,,218,3.5,763,0.763
+115,E2,RETOUR_SQDC_202404,Mixed,Prérouler 0.35,1,12,3,,36,0.35,12.6,0.013
+115,E2,RETOUR_SQDC_202404,Mixed,Prérouler 0.6,1,47,6,,282,0.6,169.2,0.169
+115,F1,372,Sage N Sour,Popcorn,,,,23948,"23,948",1,"23,948.10",23.948
+115,F1,399,Chemdawg,Popcorn,,,,16529,"16,529",1,"16,528.90",16.529
+115,F1,428,Chemdawg,Popcorn,,,,16216,"16,216",1,"16,215.50",16.216
+115,F1,428,Chemdawg,Large Flower,,,,85016,"85,016",1,"85,016.10",85.016
+115,F2,269,Blue Chemo,Popcorn,,,,6097,"6,097",1,"6,097.00",6.097
+115,F2,269,Blue Chemo,Popcorn/Shake,,,,4937,"4,937",1,"4,937.00",4.937
+115,F2,336,Gas Paradise,Large Flower,,,,21752,"21,752",1,"21,752.20",21.752
+115,F2,336,Gas Paradise,Popcorn,,,,8838,"8,838",1,"8,837.90",8.838
+115,F2,336,Gas Paradise,Shake,,,,18108,"18,108",1,"18,108.10",18.108
+115,F2,420,Chemdawg,Large Flower,,,,51303,"51,303",1,"51,302.50",51.303
+115,F2,420,Chemdawg,Popcorn,,,,9797,"9,797",1,"9,796.80",9.797
+115,G1,288,Cherry Noir,Shake,,,,36000,"36,000",1,"36,000.00",36
+115,G1,305,Cherry Noir,Shake,,,,10110,"10,110",1,"10,110.00",10.11
+115,G1,317,Chemdawg,Large Flower,,,,4410,"4,410",1,"4,410.30",4.41
+115,G1,317,Chemdawg,Shake,,,,1415,"1,415",1,"1,414.70",1.415
+115,G1,317,Chemdawg,Popcorn,,,,955,955,1,954.7,0.955
+115,G1,432,Chemdawg,Large Flower,,,,12000,"12,000",1,"12,000.00",12
+115,G1,106117,ICC Sorbet,QA|Large Flower,,,,12011,"12,011",1,"12,011.20",12.011
+115,G1,383NP,Cherry Noir,Shred,,,,42000,"42,000",1,"42,000.00",42
+115,G1,SSW23V3,Molten Core,QA|Large Flower,,,,33460,"33,460",1,"33,460.00",33.46
+115,G2,270,Medellin,Popcorn,,,,7286,"7,286",1,"7,286.10",7.286
+115,G2,283,Blue Chemo,Popcorn,,,,5136,"5,136",1,"5,136.30",5.136
+115,G2,283,Blue Chemo,Shake,,,,25477,"25,477",1,"25,477.00",25.477
+115,G2,301,Gas Paradise,Popcorn,,,,9597,"9,597",1,"9,596.90",9.597
+115,G2,301,Gas Paradise,Shake,,,,21678,"21,678",1,"21,678.20",21.678
+115,G2,368,Blueberry Kush,Shake,,,,10151,"10,151",1,"10,151.00",10.151
+115,G2,396,Chemdawg,Popcorn,,,,36505,"36,505",1,"36,505.10",36.505
+115,G2,432,Chemdawg,Popcorn/Shake,,,,3862,"3,862",1,"3,861.80",3.862
+115,PALETTE_QA,96328,London Cake,QA|Large Flower,,,,20599,"20,599",1,"20,599.10",20.599
+115,PALETTE_QA,AM31LA,Animal Mints,QA|Large Flower,,,,54591,"54,591",1,"54,591.00",54.591
+115,PALETTE_QA,RETOUR_SQDC_202405,Mixed,Prérouler 0.6,1,1519,3,,"4,557",0.6,"2,734.20",2.734
+115,PALETTE_QA,RETOUR_SQDC_202405,Mixed,Prérouler 0.35,1,874,3,,"2,622",0.35,917.7,0.918
+115,PALETTE_QA,RETOUR_SQDC_202405,Mixed,Pouches 15.0,1,30,1,,30,15,450,0.45
+115,PALETTE_QA,SL06,Slurricane #7,QA|Large Flower,,,,19489,"19,489",1,"19,489.10",19.489
+115,RACK,11,Sage N Sour,Prérouler 0.6,1,240,6,,"1,440",0.6,864,0.864
+115,RACK,11,Sage N Sour,Prérouler 0.6,1,3,6,,18,0.6,10.8,0.011
+115,RACK,11,Sage N Sour,RND|Prérouler 0.6,,,,3752,"3,752",0.6,"2,251.20",2.251
+115,RACK,12,Sage N Sour,Prérouler 0.6,1,62,6,,372,0.6,223.2,0.223
+115,RACK,12,Sage N Sour,RND|Prérouler 0.6,,,,850,850,0.6,510,0.51
+115,RACK,13,Sage N Sour,Prérouler 0.6,1,114,6,,684,0.6,410.4,0.41
+115,RACK,13,Sage N Sour,RND|Prérouler 0.6,,,,8,8,0.6,4.8,0.005
+115,RACK,98,Mandarin,RND|Prérouler 0.6,,,,605,605,0.6,363,0.363
+115,RACK,101,Sage N Sour,RND|Prérouler 0.6,,,,378,378,0.6,226.8,0.227
+115,RACK,112,Sage N Sour,Prérouler 0.6,1,34,6,,204,0.6,122.4,0.122
+115,RACK,112,Sage N Sour,RND|Prérouler 0.6,,,,48,48,0.6,28.8,0.029
+115,RACK,114,Sage N Sour,RND|Shake,,,,3120,"3,120",1,"3,119.60",3.12
+115,RACK,115,Mandarin,RND|Prérouler 0.6,,,,102,102,0.6,61.2,0.061
+115,RACK,122,Sage N Sour,Prérouler 0.6,1,13,6,,78,0.6,46.8,0.047
+115,RACK,125,Sage N Sour,Prérouler 0.6,1,8,6,,48,0.6,28.8,0.029
+115,RACK,127,Sage N Sour,Prérouler 0.6,1,8,6,,48,0.6,28.8,0.029
+115,RACK,127,Sage N Sour,RND|Prérouler 0.6,,,,410,410,0.6,246,0.246
+115,RACK,129,Sage N Sour,RND|Prérouler 0.6,,,,2,2,0.6,1.2,0.001
+115,RACK,132,Sage N Sour,Prérouler 0.6,1,45,6,,270,0.6,162,0.162
+115,RACK,132,Sage N Sour,RND|Prérouler 0.6,,,,2,2,0.6,1.2,0.001
+115,RACK,140,Sage N Sour,Prérouler 0.6,1,33,6,,198,0.6,118.8,0.119
+115,RACK,140,Sage N Sour,RND|Prérouler 0.6,,,,82,82,0.6,49.2,0.049
+115,RACK,141,Sage N Sour,RND|Shake,,,,2583,"2,583",1,"2,583.20",2.583
+115,RACK,143,Sage N Sour,RND|Shake,,,,3539,"3,539",1,"3,539.10",3.539
+115,RACK,149,Origine Kush,RND|Shake,,,,3081,"3,081",1,"3,080.60",3.081
+115,RACK,150,Sage N Sour,Prérouler 0.6,1,21,6,,126,0.6,75.6,0.076
+115,RACK,153,Sage N Sour,Prérouler 0.6,1,44,6,,264,0.6,158.4,0.158
+115,RACK,153,Sage N Sour,RND|Prérouler 0.6,,,,60,60,0.6,36,0.036
+115,RACK,154,Sage N Sour,Prérouler 0.6,1,41,6,,246,0.6,147.6,0.148
+115,RACK,154,Sage N Sour,RND|Prérouler 0.6,,,,20,20,0.6,12,0.012
+115,RACK,155,Sage N Sour,Prérouler 0.6,1,33,6,,198,0.6,118.8,0.119
+115,RACK,155,Sage N Sour,RND|Prérouler 0.6,,,,2,2,0.6,1.2,0.001
+115,RACK,158,Sage N Sour,Prérouler 0.6,1,1,6,,6,0.6,3.6,0.004
+115,RACK,158,Sage N Sour,RND|Prérouler 0.6,,,,167,167,0.6,100.2,0.1
+115,RACK,159,Cherry Noir,Pouches 15.0,1,1,1,,1,15,15,0.015
+115,RACK,160,Sage N Sour,Prérouler 0.6,1,51,6,,306,0.6,183.6,0.184
+115,RACK,160,Sage N Sour,RND|Prérouler 0.6,,,,57,57,0.6,34.2,0.034
+115,RACK,171,Sage N Sour,Prérouler 0.6,1,17,6,,102,0.6,61.2,0.061
+115,RACK,172,Sage N Sour,Prérouler 0.6,1,37,6,,222,0.6,133.2,0.133
+115,RACK,172,Sage N Sour,RND|Prérouler 0.6,,,,37,37,0.6,22.2,0.022
+115,RACK,173,Sage N Sour,Prérouler 0.6,1,44,6,,264,0.6,158.4,0.158
+115,RACK,173,Sage N Sour,RND|Prérouler 0.6,,,,236,236,0.6,141.6,0.142
+115,RACK,178,Sage N Sour,Prérouler 0.6,1,8,6,,48,0.6,28.8,0.029
+115,RACK,178,Sage N Sour,RND|Prérouler 0.6,,,,76,76,0.6,45.6,0.046
+115,RACK,179,Mandarin,RND|Prérouler 0.6,,,,4,4,0.6,2.4,0.002
+115,RACK,180,Sage N Sour,Prérouler 0.6,1,7,6,,42,0.6,25.2,0.025
+115,RACK,180,Sage N Sour,RND|Prérouler 0.6,,,,4,4,0.6,2.4,0.002
+115,RACK,181,Sage N Sour,Prérouler 0.6,1,13,6,,78,0.6,46.8,0.047
+115,RACK,181,Sage N Sour,RND|Prérouler 0.6,,,,105,105,0.6,63,0.063
+115,RACK,185,Mandarin,RND|Prérouler 0.6,,,,317,317,0.6,190.2,0.19
+115,RACK,197,Sage N Sour,RND|Prérouler 0.6,,,,368,368,0.6,220.8,0.221
+115,RACK,203,Sage N Sour,Prérouler 0.6,1,32,6,,192,0.6,115.2,0.115
+115,RACK,203,Sage N Sour,RND|Prérouler 0.6,,,,36,36,0.6,21.6,0.022
+115,RACK,204,Blue Chemo,Prérouler 0.35,1,25,3,,75,0.35,26.25,0.026
+115,RACK,204,Blue Chemo,RND|Shake,,,,1233,"1,233",1,"1,233.10",1.233
+115,RACK,204,Blue Chemo,RND|Prérouler 0.35,,,,1768,"1,768",0.35,618.8,0.619
+115,RACK,207,Sage N Sour,RND|Prérouler 0.6,,,,8,8,0.6,4.8,0.005
+115,RACK,209,Sage N Sour,Prérouler 0.6,1,29,6,,174,0.6,104.4,0.104
+115,RACK,209,Sage N Sour,Prérouler 1.0,1,299,1,,299,1,299,0.299
+115,RACK,209,Sage N Sour,RND|Prérouler 0.6,,,,22,22,0.6,13.2,0.013
+115,RACK,211,Sage N Sour,Prérouler 0.6,1,9,6,,54,0.6,32.4,0.032
+115,RACK,211,Sage N Sour,RND|Prérouler 0.6,,,,284,284,0.6,170.4,0.17
+115,RACK,212,Blue Chemo,Shake,,,,1432,"1,432",1,"1,432.40",1.432
+115,RACK,212,Blue Chemo,Prérouler 0.35,1,6,3,,18,0.35,6.3,0.006
+115,RACK,212,Blue Chemo,RND|Prérouler 0.35,,,,390,390,0.35,136.5,0.137
+115,RACK,215,Sage N Sour,Prérouler 0.6,1,3,6,,18,0.6,10.8,0.011
+115,RACK,215,Sage N Sour,RND|Prérouler 0.6,,,,790,790,0.6,474,0.474
+115,RACK,217,Sage N Sour,RND|Prérouler 0.6,,,,298,298,0.6,178.8,0.179
+115,RACK,232,Sage N Sour,Prérouler 0.6,1,22,6,,132,0.6,79.2,0.079
+115,RACK,232,Sage N Sour,RND|Prérouler 0.6,,,,17,17,0.6,10.2,0.01
+115,RACK,235,Sage N Sour,RND|Prérouler 0.6,,,,518,518,0.6,310.8,0.311
+115,RACK,237,Sage N Sour,RND|Prérouler 0.6,,,,281,281,0.6,168.6,0.169
+115,RACK,239,Sage N Sour,RND|Prérouler 0.6,,,,46,46,0.6,27.6,0.028
+115,RACK,241,Sage N Sour,Prérouler 0.6,1,1,6,,6,0.6,3.6,0.004
+115,RACK,241,Sage N Sour,RND|Prérouler 0.6,,,,38,38,0.6,22.8,0.023
+115,RACK,242,Blue Chemo,Prérouler 0.35,1,3,3,,9,0.35,3.15,0.003
+115,RACK,242,Blue Chemo,RND|Prérouler 0.35,,,,241,241,0.35,84.35,0.084
+115,RACK,247,Sage N Sour,Prérouler 0.6,1,2,6,,12,0.6,7.2,0.007
+115,RACK,247,Sage N Sour,RND|Prérouler 0.6,,,,530,530,0.6,318,0.318
+115,RACK,248,Medellin,RND|Prérouler 0.35,,,,1834,"1,834",0.35,641.9,0.642
+115,RACK,249,Sage N Sour,RND|Prérouler 0.6,,,,1009,"1,009",0.6,605.4,0.605
+115,RACK,259,Sage N Sour,RND|Prérouler 0.6,,,,500,500,0.6,300,0.3
+115,RACK,266,Sage N Sour,RND|Prérouler 0.6,,,,651,651,0.6,390.6,0.391
+115,RACK,272,Sage N Sour,Prérouler 0.6,1,1,6,,6,0.6,3.6,0.004
+115,RACK,272,Sage N Sour,RND|Prérouler 0.6,,,,1369,"1,369",0.6,821.4,0.821
+115,RACK,275,Medellin,Shake,,,,3652,"3,652",1,"3,652.00",3.652
+115,RACK,275,Medellin,RND|Prérouler 0.35,,,,328,328,0.35,114.8,0.115
+115,RACK,277,Sage N Sour,RND|Prérouler 0.6,,,,229,229,0.6,137.4,0.137
+115,RACK,281,Sage N Sour,RND|Prérouler 0.6,,,,1289,"1,289",0.6,773.4,0.773
+115,RACK,284,Sage N Sour,RND|Prérouler 0.6,,,,2889,"2,889",0.6,"1,733.40",1.733
+115,RACK,303,Sage N Sour,RND|Prérouler 0.6,,,,237,237,0.6,142.2,0.142
+115,RACK,334,Sage N Sour,RND|Shred,,,,974,974,1,974,0.974
+115,RACK,334,Sage N Sour,RND|Prérouler 0.6,,,,600,600,0.6,360,0.36
+115,RACK,210208,Cherry Noir/Mandarin,Prérouler 1.0,1,132,2,,264,1,264,0.264
+115,RACK,210208,Cherry Noir/Mandarin,RND|Prérouler 1.0,,,,2,2,1,2,0.002
+115,RACK,243154,Sage N Sour,RND|Prérouler 0.6,,,,182,182,0.6,109.2,0.109
+115,RACK,1002421,Medellin,RND|Shred,,,,998,998,1,997.67,0.998
+115,RACK,143PR,Sage N Sour,Prérouler 0.6,1,458,1,,458,0.6,274.8,0.275
+115,RACK,151-152,Sage N Sour,Prérouler 0.6,1,48,6,,288,0.6,172.8,0.173
+115,RACK,151-152,Sage N Sour,RND|Prérouler 0.6,,,,379,379,0.6,227.4,0.227
+115,RACK,151-152,Sage N Sour,RND|Prérouler 0.6,,,,154,154,0.6,92.4,0.092
+115,RACK,185PR,Mandarin,RND|Prérouler 0.6,,,,148,148,0.6,88.8,0.089
+115,RACK,204PR,Blue Chemo,RND|Prérouler 0.35,,,,2645,"2,645",0.35,925.75,0.926
+115,RACK,210208B,Cherry Noir/Mandarin,RND|Prérouler 1.0,,,,3810,"3,810",1,"3,810.00",3.81
+115,RACK,23FLH01,Sage N Sour,Shake,,,,1567,"1,567",1,"1,567.00",1.567
+115,RACK,AC1,Stargazer,Shake,,,,107,107,1,107.1,0.107
+115,RACK,AF2401,Apple Fritter,Shake,,,,3019,"3,019",1,"3,019.00",3.019
+115,RACK,AF2402,Apple Fritter,Shake,,,,5383,"5,383",1,"5,383.00",5.383
+115,RACK,FP1,Larry OG,RND|Shake,,,,8517,"8,517",1,"8,517.10",8.517
+115,RACK,INCONNU,Sage N Sour,RND|Prérouler 0.6,,,,25,25,0.6,15,0.015
+115,RACK,LOT420,Origine Nature,Shake,,,,138,138,1,138,0.138
+115,RACK,M0014,Sage N Sour,RND|Prérouler 0.6,,,,14,14,0.6,8.4,0.008
+115,RACK,MAC91,Alien Cookies,RND|Shake,,,,38,38,1,37.8,0.038
+115,RACK,MAC97,Alien Cookies,RND|Popcorn/shake,,,,40,40,1,40,0.04
+115,RACK,MIXED,Cherry Noir,RND|Shred,,,,1039,"1,039",1,"1,038.70",1.039
+115,RACK,MIXED,Mandarin,RND|Shred,,,,2673,"2,673",1,"2,672.70",2.673
+115,RACK,MIXED,Sage N Sour,RND|Shred,,,,1413,"1,413",1,"1,412.60",1.413
+115,RACK,MIXED,RND,RND|Shake,,,,2080,"2,080",1,"2,080.30",2.08
+115,RACK,MIXED,Sage N Sour,RND|Shake,,,,903,903,1,903,0.903
+115,RACK,NP342,Cherry Noir,Shred,,,,139,139,1,139,0.139
+115,RACK,NP370,Cherry Noir,Shred,,,,82,82,1,82,0.082

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %}Sales{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="my-4">All Sales</h1>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Sale ID</th>
+                    <th>Stock ID</th>
+                    <th>Lineage</th>
+                    <th>Batch</th>
+                    <th>Category</th>
+                    <th>Weight (g)</th>
+                    <th>Price/g</th>
+                    <th>Customer Name</th>
+                    <th>Sale Amount</th>
+                    <th>Date of Sale</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for sale in sales %}
+                <tr>
+                    <td>{{ sale.sale_id }}</td>
+                    <td>{{ sale.stock_id }}</td>
+                    <td>{{ sale.lineage_name }}</td>
+                    <td>{{ sale.batch_name }}</td>
+                    <td>{{ sale.category_name }}</td>
+                    <td>{{ sale.weight_g }}</td>
+                    <td>{{ sale.price_per_gram }}</td>
+                    <td>{{ sale.customer_name }}</td>
+                    <td class="text-right">{{ "{:,.2f}".format(sale.sale_total) }}</td>
+                    <td>{{ sale.date_sale }}</td>
+                </tr>
+                {% endfor %}
+                <tr>
+                    <td colspan="8" class="text-right"><strong>Total:</strong></td>
+                    <td class="text-right">{{ "{:,.2f}".format(total_sale_total) }}</td>
+                    <td colspan="2"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

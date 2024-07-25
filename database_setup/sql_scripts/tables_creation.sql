@@ -1,4 +1,4 @@
-USE inventory;
+use ventes_beta;
 
 CREATE TABLE dates (
 	date date NOT NULL PRIMARY KEY,
@@ -32,10 +32,11 @@ CREATE TABLE batches (
 	batch_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
 	batch_name VARCHAR(255) NOT NULL,
     lineage_id INT NOT NULL,
-    weight_harvest_kg DECIMAL(10,3) NOT NULL,
+    weight_harvest_kg DECIMAL(10,3),
     thc DECIMAL(10,2),
     cbd DECIMAL(10,2),
 	cbg DECIMAL(10,2),
+    is_hand_trimed BOOLEAN DEFAULT TRUE,
     date_harvest DATE,
     FOREIGN KEY (lineage_id) REFERENCES lineages (lineage_id),
     FOREIGN KEY (date_harvest) REFERENCES dates (date)
@@ -57,7 +58,7 @@ CREATE TABLE stocks (
 	needs_qa_approval bool,
 	released_by_qa bool,
 	reserved_for_retail bool,
-	is_sold bool,
+	is_sold bool DEFAULT FALSE,
 	sold_to varchar(255),
 	price_target_g decimal(10,2),
 	price_target_kg decimal(10,2),
@@ -68,4 +69,33 @@ CREATE TABLE stocks (
     FOREIGN KEY (batch_id) REFERENCES batches (batch_id),
     FOREIGN KEY (category_id) REFERENCES categories (category_id),
     FOREIGN KEY (date_stock) REFERENCES dates (date)
-)
+);
+
+CREATE TABLE users (
+	id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	username VARCHAR(255) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    first_name VARCHAR(255),
+    last_name VARCHAR(255),
+    email_address VARCHAR(255),
+    is_approved BOOLEAN DEFAULT FALSE NOT NULL,
+    is_admin BOOLEAN DEFAULT FALSE NOT NULL
+);
+
+CREATE TABLE customers (
+	customer_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    customer_name VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE sales (
+	sale_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    stock_id INT NOT NULL,
+    customer_id INT NOT NULL,
+    weight_g DECIMAL(10,3),
+    price_per_gram DECIMAL(10,2),
+    sale_total DECIMAL(10,2),
+    date_sale DATE,
+    FOREIGN KEY (stock_id) REFERENCES stocks (stock_id),
+    FOREIGN KEY (customer_id) REFERENCES customers (customer_id),
+    FOREIGN KEY (date_sale) REFERENCES dates (date)
+);

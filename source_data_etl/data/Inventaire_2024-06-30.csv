@@ -1,0 +1,548 @@
+﻿RM#,Location,Lot #,Product Name,Nature of Product,# of boxes,Packages / Box,Units / Package,Units,Total (un),Label grams,Total (g),Total (KG),THC %,Réservé Retail | Réservé Wholesale
+110,A1,426,Medellin,Popcorn,21,1000,1,1140,"22,140",1.00,"22,139.60",22.140,27.53%,Retail
+110,A1,443,Medellin,Popcorn,20,1000,1,883,"20,883",1.00,"20,883.30",20.883,29.20%,Retail
+110,A1,318,Super Lemon Haze,QA|Large Flower,6,1000,1,101,"6,101",1.00,"6,101.40",6.101,,Wholesale
+110,A1,430,Chemdawg,QA|Popcorn,3,1000,1,650,"3,650",1.00,"3,650.10",3.650,,Wholesale
+110,A2,450,Medellin,Shake,39,1500,1,1517,"60,017",1.00,"60,016.60",60.017,29.30%,Retail
+110,A2,390,Blueberry Kush,Popcorn,3,1000,1,289,"3,289",1.00,"3,288.90",3.289,23.89%,Wholesale
+110,A2,245,Chemdawg,Popcorn,8,1000,1,1076,"9,076",1.00,"9,075.60",9.076,32.14%,Wholesale
+110,A2,401,Chemdawg,Popcorn,14,1000,1,762,"14,762",1.00,"14,761.70",14.762,29.68%,Wholesale
+110,A2,280,Gas Paradise,Popcorn,10,1000,1,672,"10,672",1.00,"10,671.60",10.672,26.20%,Wholesale
+110,A2,331B,Neville Haze,Popcorn,,,,11494,"11,494",1.00,"11,493.50",11.494,,Wholesale
+110,B1,403,Medellin,Shake,41,1500,1,1248,"62,748",1.00,"62,747.70",62.748,29.78%,Retail
+110,B1,395,Chemdawg,Popcorn,32,1000,1,749,"32,749",1.00,"32,749.10",32.749,27.69%,Retail
+110,B2,229,Cherry Noir,QA|Popcorn,5,1000,1,1411,"6,411",1.00,"6,411.20",6.411,,Retail
+110,B2,387,Chemdawg,Popcorn,10,1000,1,1055,"11,055",1.00,"11,054.50",11.055,26.97%,Wholesale
+110,B2,246,Mandarin,Popcorn,5,1000,1,420,"5,420",1.00,"5,420.20",5.420,27.14%,Wholesale
+110,C1,364,Medellin,Large Flower,18,1000,1,1055,"19,055",1.00,"19,054.90",19.055,26.44%,Retail
+110,C1,431,Cherry Noir,Popcorn,8,1000,1,1230,"9,230",1.00,"9,230.10",9.230,22.72%,Retail
+110,C1,364,Medellin,Popcorn,,,,1947,"1,947",1.00,"1,947.30",1.947,26.44%,Retail
+110,C2,384,Chemdawg,Popcorn,21,1000,1,833,"21,833",1.00,"21,832.50",21.833,28.75%,Wholesale
+110,C2,233,Mandarin,Popcorn,2,1000,1,1047,"3,047",1.00,"3,047.40",3.047,24.07%,Wholesale
+110,D1,440,Blue Chem,RND|Large Flower,,,,420,420,1.00,419.50,0.420,,
+110,D1,385,Blue Dream,RND|Large Flower,,,,371,371,1.00,370.70,0.371,20.32%,
+110,D1,402,Blue Dream,RND|Large Flower,,,,454,454,1.00,454.30,0.454,20.20%,
+110,D1,441,Blue Dream,RND|Large Flower,,,,1577,"1,577",1.00,"1,576.50",1.577,,
+110,D1,390,Blueberry Kush,RND|Large Flower,,,,472,472,1.00,471.90,0.472,23.89%,
+110,D1,401,Chemdawg,RND|Large Flower,,,,2746,"2,746",1.00,"2,745.70",2.746,29.68%,
+110,D1,420,Chemdawg,RND|Large Flower,,,,987,987,1.00,986.70,0.987,26.97%,
+110,D1,428,Chemdawg,RND|Large Flower,,,,902,902,1.00,902.30,0.902,26.21%,
+110,D1,429,Chemdawg,RND|Large Flower,,,,821,821,1.00,821.40,0.821,25.68%,
+110,D1,430,Chemdawg,RND|Large Flower,,,,818,818,1.00,817.80,0.818,,
+110,D1,432,Chemdawg,RND|Large Flower,,,,758,758,1.00,757.80,0.758,29.68%,
+110,D1,439,Chemdawg,RND|Large Flower,,,,450,450,1.00,450.10,0.450,26.20%,
+110,D1,442,Chemdawg,RND|Large Flower,,,,947,947,1.00,947.40,0.947,28.42%,
+110,D1,446,Chemdawg,RND|Large Flower,,,,1257,"1,257",1.00,"1,257.00",1.257,28.81%,
+110,D1,455,Chemdawg,RND|Large Flower,,,,391,391,1.00,391.10,0.391,,
+110,D1,370,Cherry Noir,RND|Large Flower,,,,1115,"1,115",1.00,"1,114.90",1.115,21.08%,
+110,D1,370,Cherry Noir,RND|Large Flower,,,,354,354,1.00,353.70,0.354,21.08%,
+110,D1,371,Cherry Noir,RND|Large Flower,,,,418,418,1.00,417.50,0.418,,
+110,D1,383,Cherry Noir,RND|Large Flower,,,,751,751,1.00,750.90,0.751,20.44%,
+110,D1,398,Cherry Noir,RND|Large Flower,,,,443,443,1.00,442.50,0.443,,
+110,D1,431,Cherry Noir,RND|Large Flower,,,,548,548,1.00,547.80,0.548,22.72%,
+110,D1,374,Gas Paradise,RND|Large Flower,,,,432,432,1.00,431.90,0.432,26.20%,
+110,D1,397,Gas Paradise,RND|Large Flower,,,,293,293,1.00,293.10,0.293,25.31%,
+110,D1,400,Gas Paradise,RND|Large Flower,,,,884,884,1.00,883.60,0.884,26.34%,
+110,D1,447,Gas Paradise,RND|Large Flower,,,,973,973,1.00,973.30,0.973,,
+110,D1,M302273,Gelonade,RND|Large Flower,,,,15,15,1.00,14.90,0.015,,
+110,D1,364,Medellin,RND|Large Flower,,,,69,69,1.00,68.90,0.069,26.44%,
+110,D1,388,Medellin,RND|Large Flower,,,,2629,"2,629",1.00,"2,629.10",2.629,28.50%,
+110,D1,393,Medellin,RND|Large Flower,,,,1717,"1,717",1.00,"1,717.00",1.717,28.30%,
+110,D1,403,Medellin,RND|Large Flower,,,,1208,"1,208",1.00,"1,208.40",1.208,29.78%,
+110,D1,426,Medellin,RND|Large Flower,,,,1686,"1,686",1.00,"1,685.80",1.686,27.53%,
+110,D1,443,Medellin,RND|Large Flower,,,,1399,"1,399",1.00,"1,398.60",1.399,29.20%,
+110,D1,450,Medellin,RND|Large Flower,,,,1790,"1,790",1.00,"1,790.20",1.790,29.30%,
+110,D1,430/431,Mixed,RND|Large Flower,,,,217,217,1.00,216.50,0.217,,
+110,D1,437,Monkey Berry,RND|Large Flower,,,,27,27,1.00,26.90,0.027,N/A,
+110,D1,386,Purple Chitral,RND|Large Flower,,,,451,451,1.00,450.80,0.451,27.84%,
+110,D1,365,Sage N Sour,RND|Large Flower,,,,18,18,1.00,18.20,0.018,27.14%,
+110,D1,372,Sage N Sour,RND|Large Flower,,,,1206,"1,206",1.00,"1,205.60",1.206,27.22%,
+110,D1,384,Sage N Sour,RND|Large Flower,,,,1422,"1,422",1.00,"1,422.20",1.422,28.75%,
+110,D1,387,Sage N Sour,RND|Large Flower,,,,717,717,1.00,717.20,0.717,26.97%,
+110,D1,395,Sage N Sour,RND|Large Flower,,,,1261,"1,261",1.00,"1,261.20",1.261,27.69%,
+110,D1,396,Sage N Sour,RND|Large Flower,,,,1105,"1,105",1.00,"1,105.10",1.105,28.46%,
+110,D1,399,Sage N Sour,RND|Large Flower,,,,1303,"1,303",1.00,"1,303.30",1.303,29.68%,
+110,E1,429,Chemdawg,Large Flower,62,1000,1,1061,"63,061",1.00,"63,061.30",63.061,25.68%,Wholesale
+110,E1,450,Medellin,Large Flower,96,1000,1,,"96,000",1.00,"96,000.00",96.000,29.30%,Retail
+110,E1,371,Cherry Noir,QA|Large Flower,43,1000,1,465,"43,465",1.00,"43,464.90",43.465,,Retail
+110,E2,439,Chemdawg,Large Flower,54,1000,1,450,"54,450",1.00,"54,450.00",54.450,26.20%,Wholesale
+110,E2,446,Chemdawg,Large Flower,129,1000,1,936,"129,936",1.00,"129,935.80",129.936,28.81%,Wholesale
+110,E2,443,Medellin,Large Flower,79,1000,1,718,"79,718",1.00,"79,718.00",79.718,29.20%,Wholesale
+110,E2,331B,Neville Haze,Large Flower,49,1000,1,557,"49,557",1.00,"49,556.70",49.557,,Wholesale
+110,E2,430,Chemdawg,QA|Large Flower,23,1000,1,564,"23,564",1.00,"23,563.70",23.564,,Retail
+110,E2,398,Cherry Noir,QA|Large Flower,64,1000,1,283,"64,283",1.00,"64,282.60",64.283,,Retail
+110,E3,442,Chemdawg,Large Flower,108,1000,1,593,"108,593",1.00,"108,592.50",108.593,28.42%,Retail
+110,E3,442,Chemdawg,Popcorn,13,1000,1,651,"13,651",1.00,"13,651.00",13.651,28.42%,Retail
+110,F1,374,Gas Paradise,Popcorn,,,,2621,"2,621",1.00,"2,621.00",2.621,26.20%,Wholesale
+110,F1,400,Gas Paradise,Popcorn,,,,5885,"5,885",1.00,"5,885.23",5.885,26.34%,Wholesale
+110,F1,M302273,Gelonade,Popcorn,,,,2481,"2,481",1.00,"2,480.80",2.481,,Wholesale
+110,F1,403,Medellin,Large Flower,,,,4000,"4,000",1.00,"4,000.00",4.000,29.78%,Retail
+110,F1,426,Medellin,Large Flower,,,,2068,"2,068",1.00,"2,068.00",2.068,27.53%,Retail
+110,F1,352,Purple Chitral,Popcorn,,,,3993,"3,993",1.00,"3,993.00",3.993,21.52%,Retail
+110,G1,306,Medellin,Popcorn,13,1000,1,980,"13,980",1.00,"13,980.10",13.980,26.00%,Retail
+110,G1,441,Blue Dream,QA|Large Flower,36,1000,1,176,"36,176",1.00,"36,176.30",36.176,,Retail
+110,G2,M304332,Blue Chem,Popcorn,19,1000,1,598,"19,598",1.00,"19,597.60",19.598,,Wholesale
+110,G2,289,Gelonade,Popcorn,6,1000,1,722,"6,722",1.00,"6,721.70",6.722,22.76%,Wholesale
+110,G2,289,Gelonade,Large Flower,6,1000,1,,"6,000",1.00,"6,000.00",6.000,22.76%,Retail
+110,G2,364,Medellin,Popcorn,27,1000,1,626,"27,626",1.00,"27,626.30",27.626,26.44%,Retail
+110,H1,432,Chemdawg,Popcorn,12,1000,1,684,"12,684",1.00,"12,684.00",12.684,29.68%,Wholesale
+110,H1,439,Chemdawg,Popcorn,5,1000,1,277,"5,277",1.00,"5,277.20",5.277,26.20%,Wholesale
+110,H1,447,Gas Paradise,QA|Shake,24,1500,1,1237,"37,237",1.00,"37,236.60",37.237,,Wholesale
+110,H2,365,Chemdawg,Popcorn,9,1000,1,614,"9,614",1.00,"9,614.00",9.614,27.14%,Wholesale
+110,H2,446,Chemdawg,Popcorn,14,1000,1,804,"14,804",1.00,"14,803.90",14.804,28.81%,Retail
+110,I1,440,Blue Chem,QA|Popcorn,9,1000,1,1229,"10,229",1.00,"10,229.20",10.229,,Wholesale
+110,I1,429,Chemdawg,Popcorn,26,1000,1,917,"26,917",1.00,"26,916.70",26.917,25.68%,Wholesale
+110,I1,440,Blue Chem,QA|Large Flower,21,1000,1,624,"21,624",1.00,"21,623.70",21.624,,Retail
+110,I2,455,Chemdawg,QA|Popcorn,,,,1864,"1,864",1.00,"1,863.90",1.864,,Wholesale
+110,I2,M302273,Gelonade,Large Flower,16,1000,1,559,"16,559",1.00,"16,559.00",16.559,,Retail
+110,I2,440,Blue Chem,QA|Shake,19,1500,1,883,"29,383",1.00,"29,383.10",29.383,,Retail
+110,I2,443,Medellin,Shake,30,1500,1,1002,"46,002",1.00,"46,001.50",46.002,29.20%,Retail
+110,J1,398,Cherry Noir,QA|Shake,24,1500,1,1440,"37,440",1.00,"37,439.70",37.440,,Retail
+110,J1,370,Cherry Noir,Shake,36,1500,1,1001,"55,001",1.00,"55,000.60",55.001,21.08%,Retail
+110,J2,447,Gas Paradise,QA|Popcorn,8,1000,1,1151,"9,151",1.00,"9,150.80",9.151,,Wholesale
+110,J2,455,Chemdawg,QA|Shake,16,1500,1,604,"24,604",1.00,"24,603.70",24.604,,Retail
+110,J2,446,Chemdawg,Shake,26,1500,1,1253,"40,253",1.00,"40,252.70",40.253,28.81%,Retail
+110,J3,455,Chemdawg,QA|Large Flower,46,1000,1,371,"46,371",1.00,"46,371.40",46.371,,Wholesale
+110,J3,447,Gas Paradise,QA|Large Flower,38,1000,1,1005,"39,005",1.00,"39,004.70",39.005,,Retail
+111,,428,Chemdawg,Popcorn/Shake,,,,5988,"5,988",1.00,"5,987.90",5.988,26.21%,Wholesale
+111,,450,Medellin,Popcorn/Shake,,,,287,287,1.00,286.70,0.287,29.30%,Wholesale
+111,,MAC109,Alien Cookies,Pouches 1.0,9,48,1,,432,1.00,432.00,0.432,,
+111,,111596,Apple Fritter,Pouches 28.0,44,12,1,,528,28.00,"14,784.00",14.784,,
+111,,106117,ICC Sorbet,Large Flower,,,,6006,"6,006",1.00,"6,006.30",6.006,,Retail
+111,,269,Blue Chem,Jars 3.5,3,24,1,,72,3.50,252.00,0.252,27.25%,
+111,,402,Blue Chem,Pouches 3.5,14,24,1,,336,3.50,"1,176.00",1.176,20.20%,
+111,,450,Medellin,Large Flower,,,,5905,"5,905",1.00,"5,905.40",5.905,29.30%,Retail
+111,,390,Blueberry Kush,Jars 3.5,14,24,1,,336,3.50,"1,176.00",1.176,23.89%,
+111,,386,Purple Chitral,Large Flower,,,,6116,"6,116",1.00,"6,116.10",6.116,27.84%,Retail
+111,,428,Chemdawg,Pouches 3.5,102,24,1,,"2,448",3.50,"8,568.00",8.568,26.21%,
+111,,431,Cherry Noir,Pouches 3.5,3,24,1,,72,3.50,252.00,0.252,22.72%,
+111,,NP383,Cherry Noir,Pouches 15.0,29,24,1,23,719,15.00,"10,785.00",10.785,,
+111,,246261H,Cherry Noir/Mandarin,Hash 1.0,21,24,1,23,527,1.00,527.00,0.527,,
+111,,246261H,Cherry Noir/Mandarin,Hash 2.0,5,24,1,,120,2.00,240.00,0.240,,
+111,,400,Gas Paradise,Pouches 15.0,6,12,1,,72,15.00,"1,080.00",1.080,26.34%,
+111,,ICC0416,ICC Sorbet,Pouches 3.5,3,24,1,,72,3.50,252.00,0.252,,
+111,,10403760-02,Liquid Imagination,Prérouler 0.75,9,48,3,30,"1,326",0.75,994.50,0.995,,
+111,,386,Purple Chitral,Popcorn/Shake,,,,324,324,1.00,324.00,0.324,27.84%,Retail
+111,,393,Medellin,Pouches 3.5,15,24,1,149,509,3.50,"1,781.50",1.782,28.30%,
+111,,403,Medellin,Pouches 3.5,60,24,1,,"1,440",3.50,"5,040.00",5.040,29.78%,
+111,,450,Medellin,Pouches 3.5,64,24,1,,"1,536",3.50,"5,376.00",5.376,29.30%,
+111,,450,Medellin,RND|Popcorn/Shake,,,,9,9,1.00,9.00,0.009,29.30%,
+111,,338H,Medellin,Hash 3.0,3,24,1,,72,3.00,216.00,0.216,,
+111,,352,Purple Chitral,Jars 3.5,1,24,1,,24,3.50,84.00,0.084,21.52%,
+111,,386,Purple Chitral,Jars 3.5,7,24,1,,168,3.50,588.00,0.588,27.84%,
+111,,386,Purple Chitral,Jars 3.5,8,24,1,,192,3.50,672.00,0.672,27.84%,
+111,,386,Purple Chitral,RND|Popcorn/Shake,,,,47,47,1.00,47.00,0.047,27.84%,
+111,,428,Sage N Sour,Pouches 15.0,79,12,1,,948,15.00,"14,220.00",14.220,26.21%,
+111,,428,Sage N Sour,Pouches 3.5,100,24,1,,"2,400",3.50,"8,400.00",8.400,26.21%,
+111,,120472,Sage N Sour,Hash 3.0,69,24,1,,"1,656",3.00,"4,968.00",4.968,,
+111,,96332,Slurricane #7,Pouches 28.0,8,12,1,,96,28.00,"2,688.00",2.688,,
+111,,450,Medellin,Shred,,,,18000,"18,000",1.00,"18,000.00",18.000,29.30%,Retail
+111,,SSW23V2,Sweet N Sour,Pouches 3.5,3,24,1,,72,3.50,252.00,0.252,,
+111,,SSW23V2,Sweet N Sour,Prérouler 0.6,1,48,1,,48,0.60,28.80,0.029,,
+115,A1,MAC109,Alien Cookies,Large Flower,,,,2172,"2,172",1.00,"2,171.60",2.172,,Retail
+115,A1,MAC109,Alien Cookies,Pouches 1.0,1,7,1,,7,1.00,7.00,0.007,,
+115,A1,MAC109,Alien Cookies,RND,,,,5,5,1.00,4.50,0.005,,
+115,A1,208A,Mandarin,Large Flower,3,1000,1,1760,"4,760",1.00,"4,759.50",4.760,,Retail
+115,A1,118923,Cherry Noir/Mandarin,Hash,,,,5699,"5,699",1.00,"5,698.64",5.699,,
+115,A1,238260H,Cherry Noir/Mandarin,Hash 1.0,1,2,1,,2,1.00,2.00,0.002,,
+115,A1,374,Gas Paradise,Pouches 15.0,1,1,1,,1,15.00,15.00,0.015,26.20%,
+115,A1,ICC0416,ICC Sorbet,Pouches 3.5,1,1,2,,2,3.50,7.00,0.007,,
+115,A1,ICC0416,ICC Sorbet,RND|Popcorn/Shake,,,,40,40,1.00,39.70,0.040,,
+115,A1,386,Purple Chitral,Popcorn/Shake,,,,8757,"8,757",1.00,"8,757.30",8.757,27.84%,Retail
+115,A1,388H,Medellin,Hash,,,,6768,"6,768",1.00,"6,767.96",6.768,,
+115,A1,395,Sage N Sour,Pouches 3.5,1,3,1,,3,3.50,10.50,0.011,27.69%,
+115,A1,399,Sage N Sour,Pouches 15.0,1,1,1,,1,15.00,15.00,0.015,29.68%,
+115,A1,399,Sage N Sour,Pouches 3.5,1,1,1,,1,3.50,3.50,0.004,29.68%,
+115,A1,120472,Sage N Sour,Hash,,,,28770,"28,770",1.00,"28,770.00",28.770,,
+115,A1,220329,Sage N Sour,Hash,,,,188,188,1.00,187.60,0.188,,
+115,A1,ICC0416,ICC Sorbet,Popcorn/Shake,,,,4160,"4,160",1.00,"4,160.40",4.160,,Wholesale
+115,A1,208A,Mandarin,Popcorn/Shake,,,,104,104,1.00,104.00,0.104,,Wholesale
+115,A2,390,Blueberry Kush,Large Flower,,,,4186,"4,186",1.00,"4,185.90",4.186,23.89%,Retail
+115,A2,289,Gelonade,Large Flower,,,,5632,"5,632",1.00,"5,632.00",5.632,22.76%,Retail
+115,A2,390,Blueberry Kush,RND|Popcorn/Shake,,,,86,86,1.00,85.60,0.086,23.89%,
+115,A2,352,Purple Chitral,Large Flower,20,1000,1,712,"20,712",1.00,"20,712.10",20.712,21.52%,Retail
+115,A2,246261H,Cherry Noir/Mandarin,Hash,,,,409,409,1.00,408.50,0.409,,
+115,A2,246261H,Cherry Noir/Mandarin,RND|Hash,,,,4,4,1.00,4.10,0.004,,
+115,A2,185,Mandarin,Prérouler 0.6,1,48,3,,144,0.60,86.40,0.086,21.61%,
+115,A2,352,Purple Chitral,Popcorn/Shake,,,,1732,"1,732",1.00,"1,731.50",1.732,21.52%,Retail
+115,A2,352,Purple Chitral,Jars 3.5,7,24,1,,168,3.50,588.00,0.588,21.52%,
+115,A2,352,Purple Chitral,RND|Popcorn/Shake,,,,21,21,1.00,21.40,0.021,21.52%,
+115,A2,390,Blueberry Kush,Popcorn/Shake,,,,5158,"5,158",1.00,"5,158.40",5.158,23.89%,Wholesale
+115,A2,428,Chemdawg,Popcorn/Shake,,,,4007,"4,007",1.00,"4,006.90",4.007,26.21%,Wholesale
+115,B1,111596,Apple Fritter,Large Flower,,,,20918,"20,918",1.00,"20,918.20",20.918,,Retail
+115,B1,402,Blue Chem,Large Flower,2,1000,1,860,"2,860",1.00,"2,859.80",2.860,20.20%,Retail
+115,B1,111596,Apple Fritter,Pouches 3.5,1,1,1,,1,3.50,3.50,0.004,,
+115,B1,111596,Apple Fritter,RND|Popcorn/Shake,,,,13,13,1.00,13.10,0.013,,
+115,B1,402,Blue Chem,RND|Popcorn/Shake,,,,14,14,1.00,14.20,0.014,20.20%,
+115,B1,SSW23V2,Sweet N Sour,Pouches 3.5,1,24,1,,24,3.50,84.00,0.084,,
+115,B1,111596,Apple Fritter,Popcorn/Shake,,,,754,754,1.00,753.50,0.754,,Wholesale
+115,B1,402,Blue Chem,Popcorn/Shake,,,,747,747,1.00,746.50,0.747,20.20%,Wholesale
+115,B2,431,Cherry Noir,Large Flower,51,1000,1,1584,"52,584",1.00,"52,583.60",52.584,22.72%,Retail
+115,B2,431,Cherry Noir,RND|Popcorn/Shake,,,,43,43,1.00,43.20,0.043,22.72%,
+115,B2,246261H,Cherry Noir/Mandarin,Hash 2.0,2,24,1,,48,2.00,96.00,0.096,,
+115,B2,PR386393,Medellin/Purple Chitral,Defect|Prérouler 0.35,,,,15,15,0.35,5.25,0.005,,
+115,B2,PR386393,Medellin/Purple Chitral,Prérouler 0.35,,,,7,7,0.35,2.45,0.002,,
+115,B2,PR386393,Medellin/Purple Chitral,RND|Prérouler 0.35,,,,14,14,0.35,4.90,0.005,,
+115,B2,PR386393,Medellin/Purple Chitral,Shred,,,,2430,"2,430",1.00,"2,430.00",2.430,,Retail
+115,B2,SSW23V2,Sweet N Sour,Defect|Prérouler 0.6,,,,190,190,0.60,114.00,0.114,,
+115,B2,SSW23V2,Sweet N Sour,RND|Prérouler 0.6,,,,1,1,0.60,0.60,0.001,,
+115,B2,SSW23V2,Sweet N Sour,Shred,,,,1306,"1,306",1.00,"1,306.00",1.306,,Retail
+115,B2,431,Cherry Noir,Popcorn/Shake,,,,2699,"2,699",1.00,"2,699.10",2.699,22.72%,Wholesale
+115,C1,269,Blue Chem,Popcorn,,,,7133,"7,133",1.00,"7,133.40",7.133,27.25%,Wholesale
+115,C1,269,Blue Chem,RND,,,,126,126,1.00,126.30,0.126,27.25%,
+115,C1,269PR,Blue Chem,Prérouler 0.35,,,,18334,"18,334",0.35,"6,416.90",6.417,,
+115,C1,274PR,Blue Chem,Prérouler 0.35,,,,14152,"14,152",0.35,"4,953.20",4.953,,
+115,C1,403,Medellin,RND|Popcorn/Shake,,,,65,65,1.00,64.50,0.065,29.78%,
+115,C1,388H,Medellin,Hash 3.0,12,24,1,,288,3.00,864.00,0.864,,
+115,C1,96332,Slurricane #7,Pouches 28.0,27,12,1,,324,28.00,"9,072.00",9.072,,
+115,C1,403,Medellin,Popcorn/Shake,,,,4125,"4,125",1.00,"4,125.30",4.125,29.78%,Wholesale
+115,C2,400,Gas Paradise,Large Flower,18,1000,1,2418,"20,418",1.00,"20,417.60",20.418,26.34%,Retail
+115,C2,250PR,Blue Chem,Prérouler 0.35,,,,3445,"3,445",0.35,"1,205.75",1.206,,
+115,C2,250PR,Blue Chem,Defect|Prérouler 0.35,,,,205,205,0.35,71.75,0.072,,
+115,C2,250PR,Blue Chem,Prérouler 0.35,21,48,3,,"3,024",0.35,"1,058.40",1.058,,
+115,C2,250PR,Blue Chem,RND|Prérouler 0.35,,,,6,6,0.35,2.10,0.002,,
+115,C2,265PR,Blue Chem,Prérouler 0.35,,,,26900,"26,900",0.35,"9,415.00",9.415,,
+115,C2,374,Gas Paradise,RND|Popcorn/Shake,,,,79,79,1.00,78.60,0.079,26.20%,
+115,C2,400,Gas Paradise,Pouches 15.0,1,12,1,,12,15.00,180.00,0.180,26.34%,
+115,C2,400,Gas Paradise,RND|Popcorn/Shake,,,,11,11,1.00,11.39,0.011,26.34%,
+115,C2,374,Gas Paradise,Popcorn,,,,322,322,1.00,321.50,0.322,26.20%,Wholesale
+115,C2,374,Gas Paradise,Popcorn/Shake,,,,7611,"7,611",1.00,"7,611.00",7.611,26.20%,Wholesale
+115,C2,400,Gas Paradise,Popcorn/Shake,,,,542,542,1.00,541.70,0.542,26.34%,Wholesale
+115,C2,111596,Apple Fritter,Shake,,,,2000,"2,000",1.00,"2,000.10",2.000,,Wholesale
+115,D1,317,Chemdawg,Large Flower,,,,4410,"4,410",1.00,"4,410.30",4.410,25.42%,Wholesale
+115,D1,PNL-S03,Platinum Northen Lights,Large Flower,,,,324,324,1.00,323.70,0.324,,Wholesale
+115,D1,244,Chemdawg,Popcorn,,,,140,140,1.00,140.00,0.140,25.83%,Wholesale
+115,D1,317,Chemdawg,Popcorn,,,,955,955,1.00,954.70,0.955,25.42%,Wholesale
+115,D1,87980,Apple Fritter,RND|Popcorn/Shake,,,,77,77,1.00,76.90,0.077,,
+115,D1,AF0319,Apple Fritter,RND|Popcorn/Shake,,,,0,0,1.00,0.30,0.000,,
+115,D1,AF0341,Apple Fritter,RND|Popcorn/Shake,,,,24,24,1.00,24.20,0.024,,
+115,D1,AF2402,Apple Fritter,Bud Rot,,,,4109,"4,109",1.00,"4,108.70",4.109,,
+115,D1,AF2402,Apple Fritter,RND|Popcorn/Shake,,,,12,12,1.00,11.80,0.012,,
+115,D1,368,Blueberry Kush,RND|Large Flower,,,,52,52,1.00,51.60,0.052,22.15%,
+115,D1,333,Gas Paradise,Popcorn,,,,2710,"2,710",1.00,"2,710.00",2.710,25.57%,Wholesale
+115,D1,397,Gas Paradise,Popcorn,,,,1533,"1,533",1.00,"1,532.90",1.533,25.31%,Wholesale
+115,D1,110,Mandarin,Popcorn,,,,731,731,1.00,731.10,0.731,,Wholesale
+115,D1,115,Mandarin,Popcorn,,,,121,121,1.00,121.10,0.121,,Wholesale
+115,D1,208,Mandarin,Popcorn,,,,1363,"1,363",1.00,"1,362.60",1.363,18.44%,Wholesale
+115,D1,238,Mandarin,Popcorn,,,,943,943,1.00,942.80,0.943,27.27%,Wholesale
+115,D1,208A,Mandarin,Popcorn,,,,434,434,1.00,434.20,0.434,,Wholesale
+115,D1,231,Medellin,Popcorn,,,,399,399,1.00,399.00,0.399,28.90%,Wholesale
+115,D1,207,Sage N Sour,Popcorn,,,,795,795,1.00,794.90,0.795,25.55%,Wholesale
+115,D1,209,Sage N Sour,Popcorn,,,,1194,"1,194",1.00,"1,194.40",1.194,25.26%,Wholesale
+115,D1,MAC109,Alien Cookies,Popcorn/Shake,,,,166,166,1.00,166.10,0.166,,Wholesale
+115,D1,87980,Apple Fritter,Popcorn/Shake,,,,2401,"2,401",1.00,"2,400.80",2.401,,Wholesale
+115,D1,331B,Neville Haze,RND|Popcorn/Shake,,,,45,45,1.00,44.60,0.045,,
+115,D1,AF0319,Apple Fritter,Popcorn/Shake,,,,1643,"1,643",1.00,"1,642.70",1.643,,Wholesale
+115,D1,AF0341,Apple Fritter,Popcorn/Shake,,,,2639,"2,639",1.00,"2,638.90",2.639,,Wholesale
+115,D1,PNL-S03,Platinum Northen Lights,RND|Popcorn/Shake,,,,24,24,1.00,23.70,0.024,,
+115,D1,AF2402,Apple Fritter,Popcorn/Shake,,,,518,518,1.00,518.40,0.518,,Wholesale
+115,D1,269,Blue Chem,Popcorn/Shake,,,,6299,"6,299",1.00,"6,298.70",6.299,27.25%,Wholesale
+115,D1,249,Sage N Sour,RND,,,,78,78,1.00,78.00,0.078,30.95%,
+115,D1,384,Sage N Sour,RND,,,,129,129,1.00,128.66,0.129,28.75%,
+115,D1,387,Sage N Sour,RND,,,,189,189,1.00,189.00,0.189,26.97%,
+115,D1,395,Sage N Sour,RND|Large Flower,,,,218,218,1.00,218.00,0.218,27.69%,
+115,D1,399,Sage N Sour,RND,,,,207,207,1.00,206.70,0.207,29.68%,
+115,D1,401,Sage N Sour,RND,,,,154,154,1.00,154.10,0.154,29.68%,
+115,D1,SD0239,Sundae Driver,RND|Popcorn/Shake,,,,57,57,1.00,56.50,0.057,,
+115,D1,208B,Mandarin,Popcorn/Shake,,,,3076,"3,076",1.00,"3,076.30",3.076,,Wholesale
+115,D1,331B,Neville Haze,Popcorn/Shake,,,,2700,"2,700",1.00,"2,699.70",2.700,,Wholesale
+115,D1,PNL-S03,Platinum Northen Lights,Popcorn/Shake,,,,531,531,1.00,531.10,0.531,,Wholesale
+115,D1,203,Sage N Sour,Popcorn/Shake,,,,996,996,1.00,995.90,0.996,26.09%,Wholesale
+115,D1,SD0239,Sundae Driver,Popcorn/Shake,,,,1867,"1,867",1.00,"1,866.80",1.867,,Wholesale
+115,D1,291,Banana Daddy,QA|Large Flower,,,,2085,"2,085",1.00,"2,084.90",2.085,,Wholesale
+115,D1,319,Blue Cheese,QA|Large Flower,,,,2643,"2,643",1.00,"2,643.10",2.643,,Wholesale
+115,D1,394,Sweet Stripe,QA|Large Flower,,,,1754,"1,754",1.00,"1,754.20",1.754,,Wholesale
+115,D1,437,Monkey Berry,QA|Popcorn,,,,2003,"2,003",1.00,"2,003.20",2.003,N/A,Wholesale
+115,D1,394,Sweet Stripe,QA|Popcorn,,,,326,326,1.00,325.50,0.326,,Wholesale
+115,D1,291,Banana Daddy,QA|Shake,,,,1307,"1,307",1.00,"1,307.00",1.307,,Wholesale
+115,D1,319,Blue Cheese,QA|Shake,,,,2734,"2,734",1.00,"2,733.80",2.734,,Wholesale
+115,D1,437,Monkey Berry,QA|Shake,,,,1405,"1,405",1.00,"1,405.00",1.405,N/A,Wholesale
+115,D1,318,Super Lemon Haze,QA|Shake,,,,869,869,1.00,869.00,0.869,,Wholesale
+115,D1,394,Sweet Stripe,QA|Shake,,,,997,997,1.00,997.20,0.997,,Wholesale
+115,D1,AF2402,Apple Fritter,Shake,,,,516,516,1.00,515.70,0.516,,Wholesale
+115,D1,317,Chemdawg,Shake,,,,1415,"1,415",1.00,"1,414.70",1.415,25.42%,Wholesale
+115,D1,207,Sage N Sour,Shake,,,,412,412,1.00,411.60,0.412,25.55%,Wholesale
+115,D1,209,Sage N Sour,Shake,,,,472,472,1.00,471.50,0.472,25.26%,Wholesale
+115,D2,208B,Mandarin,Popcorn,,,,3117,"3,117",1.00,"3,117.00",3.117,,Wholesale
+115,D2,AF2401,Apple Fritter,Bud Rot,,,,2876,"2,876",1.00,"2,876.00",2.876,,
+115,D2,250,Blue Chem,RND|Jars 3.5,1,27,1,,27,3.50,94.50,0.095,26.48%,
+115,D2,208B,Mandarin,Large Flower,,,,9199,"9,199",1.00,"9,199.40",9.199,,Retail
+115,D2,303,Sage N Sour,RND|Shred,,,,577,577,1.00,577.00,0.577,29.17%,
+115,D2,MIXED,Sage N Sour,RND|Shake,,,,1459,"1,459",1.00,"1,459.43",1.459,,
+115,D2,233,Mandarin,Popcorn/Shake,,,,5739,"5,739",1.00,"5,738.50",5.739,24.07%,Wholesale
+115,D2,246,Mandarin,Popcorn/Shake,,,,10516,"10,516",1.00,"10,516.20",10.516,27.14%,Wholesale
+115,E1,204,Blue Chem,Prérouler 0.35,1,25,3,,75,0.35,26.25,0.026,29.35%,
+115,E1,204,Blue Chem,RND|Prérouler 0.35,,,,1768,"1,768",0.35,618.80,0.619,29.35%,
+115,E1,212,Blue Chem,Prérouler 0.35,1,6,3,,18,0.35,6.30,0.006,29.16%,
+115,E1,212,Blue Chem,RND|Prérouler 0.35,,,,390,390,0.35,136.50,0.137,29.16%,
+115,E1,242,Blue Chem,Prérouler 0.35,1,3,3,,9,0.35,3.15,0.003,28.73%,
+115,E1,242,Blue Chem,RND|Prérouler 0.35,,,,241,241,0.35,84.35,0.084,28.73%,
+115,E1,204,Blue Chem,RND|Prérouler 0.35,,,,2645,"2,645",0.35,925.75,0.926,29.35%,
+115,E1,210208,Cherry Noir/Mandarin,Prérouler 1.0,1,132,2,,264,1.00,264.00,0.264,,
+115,E1,210208,Cherry Noir/Mandarin,RND|Prérouler 1.0,,,,2,2,1.00,2.00,0.002,,
+115,E1,159185H,Cherry Noir/Mandarin,Hash 1.0,1,15,1,,15,1.00,15.00,0.015,,
+115,E1,159185H,Cherry Noir/Mandarin,Hash 1.0,1,23,1,,23,1.00,23.00,0.023,,
+115,E1,159185H,Cherry Noir/Mandarin,RND|Hash,,,,3,3,1.00,3.20,0.003,,
+115,E1,176208H,Cherry Noir/Mandarin,Hash 1.0,1,2,1,,2,1.00,2.00,0.002,,
+115,E1,176208H,Cherry Noir/Mandarin,Hash 1.0,1,23,1,,23,1.00,23.00,0.023,,
+115,E1,176208H,Cherry Noir/Mandarin,RND|Hash,,,,19,19,1.00,18.90,0.019,,
+115,E1,179201H,Cherry Noir/Mandarin,Hash 2.0,1,2,1,,2,2.00,4.00,0.004,,
+115,E1,179201H,Cherry Noir/Mandarin,RND|Hash,,,,54,54,1.00,54.00,0.054,,
+115,E1,185201H,Cherry Noir/Mandarin,Hash 2.0,1,6,1,,6,2.00,12.00,0.012,,
+115,E1,185201H,Cherry Noir/Mandarin,RND|Hash,,,,21,21,1.00,21.30,0.021,,
+115,E1,208210H,Cherry Noir/Mandarin,Hash 2.0,1,120,1,,120,2.00,240.00,0.240,,
+115,E1,208210H,Cherry Noir/Mandarin,Hash 2.0,1,10,1,,10,2.00,20.00,0.020,,
+115,E1,208210H,Cherry Noir/Mandarin,RND|Hash,,,,4,4,1.00,3.90,0.004,,
+115,E1,210208B,Cherry Noir/Mandarin,RND|Prérouler 1.0,,,,3810,"3,810",1.00,"3,810.00",3.810,,
+115,E1,213201H,Cherry Noir/Mandarin,Hash 2.0,1,2,1,,2,2.00,4.00,0.004,,
+115,E1,213201H,Cherry Noir/Mandarin,RND|Hash,,,,89,89,1.00,88.50,0.089,,
+115,E1,213210H,Cherry Noir/Mandarin,RND|Hash,,,,30,30,1.00,29.76,0.030,,
+115,E1,213229H,Cherry Noir/Mandarin,Hash 2.0,1,1,1,,1,2.00,2.00,0.002,,
+115,E1,213229H,Cherry Noir/Mandarin,RND|Hash,,,,20,20,1.00,20.00,0.020,,
+115,E1,233229H,Cherry Noir/Mandarin,RND|Hash,,,,4,4,1.00,4.00,0.004,,
+115,E1,233229H2,Cherry Noir/Mandarin,RND|Hash,,,,12,12,1.00,11.90,0.012,,
+115,E1,238260H,Cherry Noir/Mandarin,RND|Hash,,,,20,20,1.00,20.00,0.020,,
+115,E1,EXLOS2ZCA4GYRN,Cherry Noir/Mandarin,Hash 2.0,1,403,1,,403,2.00,806.00,0.806,,
+115,E1,EXLOS2ZCA4GYRN,Cherry Noir/Mandarin,RND|Hash,,,,167,167,1.00,167.00,0.167,,
+115,E1,EXLQBXZTWNO5JR,Cherry Noir/Mandarin,Hash 2.0,1,400,1,,400,2.00,800.00,0.800,,
+115,E1,EXLQBXZTWNO5JR,Cherry Noir/Mandarin,RND|Hash,,,,176,176,1.00,176.00,0.176,,
+115,E1,98,Mandarin,Prérouler 0.6,1,5,3,,15,0.60,9.00,0.009,,
+115,E1,98,Mandarin,Jars 3.5,1,217,1,,217,3.50,759.50,0.760,,
+115,E1,98,Mandarin,RND|Prérouler 0.6,,,,605,605,0.60,363.00,0.363,,
+115,E1,115,Mandarin,Jars 3.5,1,26,1,,26,3.50,91.00,0.091,,
+115,E1,115,Mandarin,RND|Prérouler 0.6,,,,102,102,0.60,61.20,0.061,,
+115,E1,179,Mandarin,Prérouler 0.6,1,7,3,,21,0.60,12.60,0.013,27.58%,
+115,E1,179,Mandarin,Jars 3.5,1,27,1,,27,3.50,94.50,0.095,27.58%,
+115,E1,179,Mandarin,RND|Prérouler 0.6,,,,4,4,0.60,2.40,0.002,27.58%,
+115,E1,185,Mandarin,Prérouler 0.6,1,2,3,,6,0.60,3.60,0.004,21.61%,
+115,E1,185,Mandarin,Prérouler 0.6,,,,1328,"1,328",0.60,796.80,0.797,21.61%,
+115,E1,185,Mandarin,Prérouler 0.6,1,1,144,,144,0.60,86.40,0.086,21.61%,
+115,E1,185,Mandarin,Jars 3.5,1,80,1,,80,3.50,280.00,0.280,21.61%,
+115,E1,185,Mandarin,RND|Prérouler 0.6,,,,317,317,0.60,190.20,0.190,21.61%,
+115,E1,185,Mandarin,RND|Prérouler 0.6,,,,148,148,0.60,88.80,0.089,21.61%,
+115,E1,208A,Mandarin,Jars 3.5,1,61,1,,61,3.50,213.50,0.214,,
+115,E1,208B,Mandarin,Jars 3.5,1,31,1,,31,3.50,108.50,0.109,,
+115,E1,208B,Mandarin,Jars 3.5,1,21,1,,21,3.50,73.50,0.074,,
+115,E1,233C,Mandarin,Jars 3.5,1,47,1,,47,3.50,164.50,0.165,,
+115,E1,248,Medellin,RND|Prérouler 0.35,,,,1834,"1,834",0.35,641.90,0.642,27.63%,
+115,E1,275,Medellin,RND|Prérouler 0.35,,,,328,328,0.35,114.80,0.115,29.86%,
+115,E1,364H,Medellin,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,364H,Medellin,RND|Hash,,,,90,90,1.00,90.00,0.090,,
+115,E1,INCONNU,RND,Finger Hash,,,,1538,"1,538",1.00,"1,538.00",1.538,,
+115,E1,11,Sage N Sour,Prérouler 0.6,1,240,6,,"1,440",0.60,864.00,0.864,,
+115,E1,11,Sage N Sour,Prérouler 0.6,1,3,6,,18,0.60,10.80,0.011,,
+115,E1,11,Sage N Sour,RND|Prérouler 0.6,,,,3752,"3,752",0.60,"2,251.20",2.251,,
+115,E1,12,Sage N Sour,Prérouler 0.6,1,62,6,,372,0.60,223.20,0.223,,
+115,E1,12,Sage N Sour,RND|Prérouler 0.6,,,,850,850,0.60,510.00,0.510,,
+115,E1,13,Sage N Sour,Prérouler 0.6,1,114,6,,684,0.60,410.40,0.410,,
+115,E1,13,Sage N Sour,RND|Prérouler 0.6,,,,8,8,0.60,4.80,0.005,,
+115,E1,101,Sage N Sour,RND|Prérouler 0.6,,,,378,378,0.60,226.80,0.227,,
+115,E1,112,Sage N Sour,Prérouler 0.6,1,34,6,,204,0.60,122.40,0.122,,
+115,E1,112,Sage N Sour,RND|Prérouler 0.6,,,,48,48,0.60,28.80,0.029,,
+115,E1,122,Sage N Sour,Prérouler 0.6,1,13,6,,78,0.60,46.80,0.047,,
+115,E1,125,Sage N Sour,Prérouler 0.6,1,8,6,,48,0.60,28.80,0.029,,
+115,E1,127,Sage N Sour,Prérouler 0.6,1,8,6,,48,0.60,28.80,0.029,,
+115,E1,127,Sage N Sour,RND|Prérouler 0.6,,,,410,410,0.60,246.00,0.246,,
+115,E1,129,Sage N Sour,RND|Prérouler 0.6,,,,2,2,0.60,1.20,0.001,,
+115,E1,132,Sage N Sour,Prérouler 0.6,1,45,6,,270,0.60,162.00,0.162,,
+115,E1,132,Sage N Sour,RND|Prérouler 0.6,,,,2,2,0.60,1.20,0.001,,
+115,E1,140,Sage N Sour,Prérouler 0.6,1,33,6,,198,0.60,118.80,0.119,,
+115,E1,140,Sage N Sour,RND|Prérouler 0.6,,,,82,82,0.60,49.20,0.049,,
+115,E1,150,Sage N Sour,Prérouler 0.6,1,21,6,,126,0.60,75.60,0.076,,
+115,E1,153,Sage N Sour,Prérouler 0.6,1,44,6,,264,0.60,158.40,0.158,,
+115,E1,153,Sage N Sour,RND|Prérouler 0.6,,,,60,60,0.60,36.00,0.036,,
+115,E1,154,Sage N Sour,Prérouler 0.6,1,41,6,,246,0.60,147.60,0.148,,
+115,E1,154,Sage N Sour,RND|Prérouler 0.6,,,,20,20,0.60,12.00,0.012,,
+115,E1,155,Sage N Sour,Prérouler 0.6,1,33,6,,198,0.60,118.80,0.119,,
+115,E1,155,Sage N Sour,RND|Prérouler 0.6,,,,2,2,0.60,1.20,0.001,,
+115,E1,158,Sage N Sour,Prérouler 0.6,1,1,6,,6,0.60,3.60,0.004,,
+115,E1,158,Sage N Sour,RND|Prérouler 0.6,,,,167,167,0.60,100.20,0.100,,
+115,E1,160,Sage N Sour,Prérouler 0.6,1,51,6,,306,0.60,183.60,0.184,,
+115,E1,160,Sage N Sour,RND|Prérouler 0.6,,,,57,57,0.60,34.20,0.034,,
+115,E1,171,Sage N Sour,Prérouler 0.6,1,17,6,,102,0.60,61.20,0.061,,
+115,E1,172,Sage N Sour,Prérouler 0.6,1,37,6,,222,0.60,133.20,0.133,,
+115,E1,172,Sage N Sour,RND|Prérouler 0.6,,,,37,37,0.60,22.20,0.022,,
+115,E1,173,Sage N Sour,Prérouler 0.6,1,44,6,,264,0.60,158.40,0.158,24.85%,
+115,E1,173,Sage N Sour,RND|Prérouler 0.6,,,,236,236,0.60,141.60,0.142,24.85%,
+115,E1,178,Sage N Sour,Prérouler 0.6,1,8,6,,48,0.60,28.80,0.029,28.86%,
+115,E1,178,Sage N Sour,RND|Prérouler 0.6,,,,76,76,0.60,45.60,0.046,28.86%,
+115,E1,180,Sage N Sour,Prérouler 0.6,1,7,6,,42,0.60,25.20,0.025,26.62%,
+115,E1,180,Sage N Sour,RND|Prérouler 0.6,,,,4,4,0.60,2.40,0.002,26.62%,
+115,E1,181,Sage N Sour,Prérouler 0.6,1,13,6,,78,0.60,46.80,0.047,28.92%,
+115,E1,181,Sage N Sour,RND|Prérouler 0.6,,,,105,105,0.60,63.00,0.063,28.92%,
+115,E1,197,Sage N Sour,RND|Prérouler 0.6,,,,368,368,0.60,220.80,0.221,26.88%,
+115,E1,203,Sage N Sour,Prérouler 0.6,1,32,6,,192,0.60,115.20,0.115,26.09%,
+115,E1,203,Sage N Sour,RND|Prérouler 0.6,,,,36,36,0.60,21.60,0.022,26.09%,
+115,E1,207,Sage N Sour,RND|Prérouler 0.6,,,,8,8,0.60,4.80,0.005,25.55%,
+115,E1,209,Sage N Sour,Prérouler 0.6,1,29,6,,174,0.60,104.40,0.104,25.26%,
+115,E1,209,Sage N Sour,Prérouler 1.0,1,299,1,,299,1.00,299.00,0.299,25.26%,
+115,E1,209,Sage N Sour,RND|Prérouler 0.6,,,,22,22,0.60,13.20,0.013,25.26%,
+115,E1,211,Sage N Sour,Prérouler 0.6,1,9,6,,54,0.60,32.40,0.032,29.01%,
+115,E1,211,Sage N Sour,RND|Prérouler 0.6,,,,284,284,0.60,170.40,0.170,29.01%,
+115,E1,215,Sage N Sour,Prérouler 0.6,1,3,6,,18,0.60,10.80,0.011,28.28%,
+115,E1,215,Sage N Sour,RND|Prérouler 0.6,,,,790,790,0.60,474.00,0.474,28.28%,
+115,E1,217,Sage N Sour,RND|Prérouler 0.6,,,,298,298,0.60,178.80,0.179,25.79%,
+115,E1,232,Sage N Sour,Prérouler 0.6,1,22,6,,132,0.60,79.20,0.079,29.51%,
+115,E1,232,Sage N Sour,RND|Prérouler 0.6,,,,17,17,0.60,10.20,0.010,29.51%,
+115,E1,235,Sage N Sour,RND|Prérouler 0.6,,,,518,518,0.60,310.80,0.311,29.30%,
+115,E1,237,Sage N Sour,RND|Prérouler 0.6,,,,281,281,0.60,168.60,0.169,26.92%,
+115,E1,239,Sage N Sour,RND|Prérouler 0.6,,,,46,46,0.60,27.60,0.028,23.50%,
+115,E1,241,Sage N Sour,Prérouler 0.6,1,1,6,,6,0.60,3.60,0.004,27.85%,
+115,E1,241,Sage N Sour,RND|Prérouler 0.6,,,,38,38,0.60,22.80,0.023,27.85%,
+115,E1,247,Sage N Sour,Prérouler 0.6,1,2,6,,12,0.60,7.20,0.007,27.84%,
+115,E1,247,Sage N Sour,RND|Prérouler 0.6,,,,530,530,0.60,318.00,0.318,27.84%,
+115,E1,249,Sage N Sour,RND|Prérouler 0.6,,,,1009,"1,009",0.60,605.40,0.605,30.95%,
+115,E1,259,Sage N Sour,RND|Prérouler 0.6,,,,500,500,0.60,300.00,0.300,29.74%,
+115,E1,266,Sage N Sour,RND|Prérouler 0.6,,,,651,651,0.60,390.60,0.391,29.19%,
+115,E1,272,Sage N Sour,Prérouler 0.6,1,1,6,,6,0.60,3.60,0.004,28.34%,
+115,E1,277,Sage N Sour,RND|Prérouler 0.6,,,,229,229,0.60,137.40,0.137,29.36%,
+115,E1,281,Sage N Sour,RND|Prérouler 0.6,,,,1289,"1,289",0.60,773.40,0.773,28.88%,
+115,E1,284,Sage N Sour,RND|Prérouler 0.6,,,,2889,"2,889",0.60,"1,733.40",1.733,29.45%,
+115,E1,303,Sage N Sour,RND|Prérouler 0.6,,,,237,237,0.60,142.20,0.142,29.17%,
+115,E1,334,Sage N Sour,RND|Prérouler 0.6,,,,600,600,0.60,360.00,0.360,26.53%,
+115,E1,243154,Sage N Sour,RND|Prérouler 0.6,,,,182,182,0.60,109.20,0.109,,
+115,E1,141171H,Sage N Sour,Hash 3.0,1,5,1,,5,3.00,15.00,0.015,,
+115,E1,141171H,Sage N Sour,RND|Hash,,,,25,25,1.00,25.00,0.025,,
+115,E1,143160H,Sage N Sour,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,143160H,Sage N Sour,RND|Hash,,,,94,94,1.00,93.90,0.094,,
+115,E1,143H,Sage N Sour,Hash 3.0,1,22,1,,22,3.00,66.00,0.066,,
+115,E1,143H,Sage N Sour,RND|Hash,,,,9,9,1.00,8.90,0.009,,
+115,E1,143PR,Sage N Sour,Prérouler 0.6,1,458,1,,458,0.60,274.80,0.275,,
+115,E1,151-152,Sage N Sour,Prérouler 0.6,1,48,6,,288,0.60,172.80,0.173,,
+115,E1,151-152,Sage N Sour,RND|Prérouler 0.6,,,,379,379,0.60,227.40,0.227,,
+115,E1,151-152,Sage N Sour,RND|Prérouler 0.6,,,,154,154,0.60,92.40,0.092,,
+115,E1,154H,Sage N Sour,Hash 3.0,1,12,1,,12,3.00,36.00,0.036,,
+115,E1,154H,Sage N Sour,RND|Hash,,,,18,18,1.00,17.90,0.018,,
+115,E1,155181H,Sage N Sour,Hash 3.0,1,26,1,,26,3.00,78.00,0.078,,
+115,E1,155181H,Sage N Sour,RND|Hash,,,,31,31,1.00,30.62,0.031,,
+115,E1,172178H,Sage N Sour,Hash 3.0,1,2,1,,2,3.00,6.00,0.006,,
+115,E1,172178H,Sage N Sour,RND|Hash,,,,91,91,1.00,90.90,0.091,,
+115,E1,173H,Sage N Sour,Hash 3.0,1,19,1,,19,3.00,57.00,0.057,,
+115,E1,173H,Sage N Sour,RND|Hash,,,,30,30,1.00,30.40,0.030,,
+115,E1,203H,Sage N Sour,Hash 3.0,1,2,1,,2,3.00,6.00,0.006,,
+115,E1,203H,Sage N Sour,RND|Hash,,,,27,27,1.00,27.10,0.027,,
+115,E1,207H,Sage N Sour,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,207H,Sage N Sour,RND|Hash,,,,39,39,1.00,38.50,0.039,,
+115,E1,209H,Sage N Sour,Hash 3.0,1,9,1,,9,3.00,27.00,0.027,,
+115,E1,209H,Sage N Sour,RND|Hash,,,,79,79,1.00,79.30,0.079,,
+115,E1,211H,Sage N Sour,Hash 3.0,1,24,1,,24,3.00,72.00,0.072,,
+115,E1,211H,Sage N Sour,RND|Hash,,,,66,66,1.00,66.00,0.066,,
+115,E1,215217H,Sage N Sour,RND|Hash,,,,536,536,1.00,536.00,0.536,,
+115,E1,217232H,Sage N Sour,Hash 3.0,1,5,1,,5,3.00,15.00,0.015,,
+115,E1,217232H,Sage N Sour,RND|Hash,,,,45,45,1.00,44.50,0.045,,
+115,E1,235237H,Sage N Sour,Hash 3.0,1,6,1,,6,3.00,18.00,0.018,,
+115,E1,235237H,Sage N Sour,RND|Hash,,,,146,146,1.00,146.00,0.146,,
+115,E1,243241H,Sage N Sour,RND|Hash,,,,66,66,1.00,65.76,0.066,,
+115,E1,247239H,Sage N Sour,Hash 3.0,1,3,1,,3,3.00,9.00,0.009,,
+115,E1,247239H,Sage N Sour,RND|Hash,,,,72,72,1.00,72.00,0.072,,
+115,E1,249H,Sage N Sour,RND|Hash,,,,20,20,1.00,19.52,0.020,,
+115,E1,272259H,Sage N Sour,RND|Hash,,,,46,46,1.00,46.00,0.046,,
+115,E1,277H,Sage N Sour,Hash 3.0,1,72,1,,72,3.00,216.00,0.216,,
+115,E1,277H,Sage N Sour,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,277H,Sage N Sour,RND|Hash,,,,34,34,1.00,34.00,0.034,,
+115,E1,277H2,Sage N Sour,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,277H2,Sage N Sour,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,277H2,Sage N Sour,RND|Hash,,,,57,57,1.00,57.00,0.057,,
+115,E1,281266H,Sage N Sour,Hash 3.0,1,2,1,,2,3.00,6.00,0.006,,
+115,E1,281266H,Sage N Sour,RND|Hash,,,,48,48,1.00,48.00,0.048,,
+115,E1,303H,Sage N Sour,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,E1,303H,Sage N Sour,RND|Hash,,,,64,64,1.00,64.00,0.064,,
+115,E1,334244H,Sage N Sour,RND|Hash,,,,32,32,1.00,32.16,0.032,,
+115,E1,343H,Sage N Sour,RND|Hash,,,,58,58,1.00,57.76,0.058,,
+115,E1,372H,Sage N Sour,RND|Hash,,,,17,17,1.00,17.00,0.017,,
+115,E1,384H,Sage N Sour,RND|Hash,,,,18,18,1.00,18.00,0.018,,
+115,E1,387365H,Sage N Sour,RND|Hash,,,,22,22,1.00,22.00,0.022,,
+115,E1,INCONNU,Sage N Sour,RND|Prérouler 0.6,,,,25,25,0.60,15.00,0.015,,
+115,E1,INCONNU,Sage N Sour,Bubble Hash,,,,2149,"2,149",1.00,"2,149.00",2.149,,
+115,E1,M0014,Sage N Sour,RND|Prérouler 0.6,,,,14,14,0.60,8.40,0.008,,
+115,E1,ON2210H,Sage N Sour,Hash 3.0,1,4,1,,4,3.00,12.00,0.012,,
+115,E1,ON2210H,Sage N Sour,RND|Hash,,,,67,67,1.00,66.80,0.067,,
+115,E1,MIX-NUANCE-RETOUR,Sage N Sour,Shred,,,,34357,"34,357",1.00,"34,357.19",34.357,,Retail
+115,E1,ORNA-02,Sage N Sour,Shred,,,,44529,"44,529",1.00,"44,528.50",44.529,,Retail
+115,E1,SNSORNA-01,Sage N Sour,Shred,,,,5883,"5,883",1.00,"5,883.30",5.883,,Retail
+115,E2,105985,RND|MIXRETAIL,Large Flower,,,,154646,"154,646",1.00,"154,646.20",154.646,,Wholesale
+115,E2,RETOUR_SQDC_202404,Sage N Sour,Pouches 3.5,1,122,1,,122,3.50,427.00,0.427,,
+115,E2,RETOUR_SQDC_202404,Medellin,Pouches 3.5,1,10,1,,10,3.50,35.00,0.035,,
+115,E2,RETOUR_SQDC_202404,Gas Paradise,Pouches 3.5,1,63,1,,63,3.50,220.50,0.221,,
+115,E2,RETOUR_SQDC_202404,Sage N Sour,Pouches 15.0,1,22,1,,22,15.00,330.00,0.330,,
+115,E2,RETOUR_SQDC_202404,Gas Paradise,Pouches 15.0,1,3,1,,3,15.00,45.00,0.045,,
+115,E2,RETOUR_SQDC_202404,Cherry Noir,Pouches 15.0,1,9,1,,9,15.00,135.00,0.135,,
+115,E2,RETOUR_SQDC_202404,Blue Chem,Jars 3.5,1,15,1,,15,3.50,52.50,0.053,,
+115,E2,RETOUR_SQDC_202404,Purple Chitral,Jars 3.5,1,2,1,,2,3.50,7.00,0.007,,
+115,E2,RETOUR_SQDC_202404,Mandarin,Jars 3.5,1,3,1,,3,3.50,10.50,0.011,,
+115,E2,RETOUR_SQDC_202404,Mandarin,Prérouler 0.6,1,8,3,,24,0.60,14.40,0.014,,
+115,E2,RETOUR_SQDC_202404,Blue Chem,Prérouler 0.35,1,4,3,,12,0.35,4.20,0.004,,
+115,E2,RETOUR_SQDC_202404,Sage N Sour,Hash 3.0,1,29,1,,29,3.00,87.00,0.087,,
+115,E2,RETOUR_SQDC_202404,Cherry Noir/Mandarin,Hash 2.0,1,2,1,,2,2.00,4.00,0.004,,
+115,E2,RETOUR_SQDC_202404,Cherry Noir/Mandarin,Hash 1.0,1,11,1,,11,1.00,11.00,0.011,,
+115,E2,RETOUR_SQDC_202404,Sage N Sour,Prérouler 0.6,1,80,6,,480,0.60,288.00,0.288,,
+115,E2,RETOUR_SQDC_202404,Medellin,Prérouler 0.35,1,2,10,,20,0.35,7.00,0.007,,
+115,E2,RETOUR_SQDC_202405,Mandarin,Prérouler 0.6,1,1519,3,,"4,557",0.60,"2,734.20",2.734,,
+115,E2,RETOUR_SQDC_202405,Blue Chem,Prérouler 0.35,1,874,3,,"2,622",0.35,917.70,0.918,,
+115,E2,RETOUR_SQDC_202405,Medellin,Pouches 15.0,1,30,1,,30,15.00,450.00,0.450,,
+115,E2,105985,RND|MIXRETAIL,Shake,,,,37512,"37,512",1.00,"37,512.40",37.512,,Wholesale
+115,E2,105985,RND|MIXRETAIL,Shred,,,,10140,"10,140",1.00,"10,140.30",10.140,,Wholesale
+115,F1,245,Sage N Sour,Large Flower,,,,3162,"3,162",1.00,"3,161.80",3.162,32.14%,Wholesale
+115,F1,372,Chemdawg,Popcorn,23,1000,1,948,"23,948",1.00,"23,948.10",23.948,27.22%,Wholesale
+115,F1,399,Chemdawg,Popcorn,16,1000,1,529,"16,529",1.00,"16,528.90",16.529,29.68%,Retail
+115,F1,428,Chemdawg,Popcorn,15,1000,1,1216,"16,216",1.00,"16,215.50",16.216,26.21%,Retail
+115,F1,245,Sage N Sour,Popcorn/Shake,,,,10459,"10,459",1.00,"10,459.40",10.459,32.14%,Retail
+115,F1,249,Sage N Sour,Popcorn/Shake,,,,9296,"9,296",1.00,"9,296.00",9.296,30.95%,Retail
+115,F1,372,Sage N Sour,Popcorn/Shake,,,,13385,"13,385",1.00,"13,385.00",13.385,27.22%,Retail
+115,F1,384,Sage N Sour,Popcorn/Shake,,,,22646,"22,646",1.00,"22,646.40",22.646,28.75%,Retail
+115,F1,387,Sage N Sour,Popcorn/Shake,,,,19230,"19,230",1.00,"19,230.00",19.230,26.97%,Retail
+115,F1,395,Sage N Sour,Popcorn/Shake,,,,33840,"33,840",1.00,"33,840.00",33.840,27.69%,Retail
+115,F1,399,Sage N Sour,Popcorn/Shake,,,,13127,"13,127",1.00,"13,126.90",13.127,29.68%,Retail
+115,F1,401,Sage N Sour,Popcorn/Shake,,,,15848,"15,848",1.00,"15,848.10",15.848,29.68%,Retail
+115,F1,96328,London Cake,QA|Large Flower,,,,20599,"20,599",1.00,"20,599.10",20.599,,Retail
+115,F2,420,Chemdawg,Large Flower,2,1000,1,186,"2,186",1.00,"2,185.90",2.186,26.97%,Wholesale
+115,F2,269,Blue Chem,Popcorn,,,,6097,"6,097",1.00,"6,097.00",6.097,27.25%,Wholesale
+115,F2,368,Blueberry Kush,Popcorn,,,,2556,"2,556",1.00,"2,556.30",2.556,22.15%,Wholesale
+115,F2,420,Chemdawg,Popcorn,9,1000,1,797,"9,797",1.00,"9,796.80",9.797,26.97%,Wholesale
+115,F2,336,Gas Paradise,Popcorn,8,1000,1,837,"8,837",1.00,"8,837.40",8.837,22.96%,Wholesale
+115,F2,420,Chemdawg,Popcorn/Shake,,,,884,884,1.00,883.70,0.884,26.97%,Wholesale
+115,F2,AM31LA,Animal Mints,Large Flower,,,,54591,"54,591",1.00,"54,591.00",54.591,,Retail
+115,F2,336,Gas Paradise,Large Flower,21,1000,1,753,"21,753",1.00,"21,752.50",21.753,22.96%,Retail
+115,F2,106117,ICC Sorbet,Large Flower,,,,6605,"6,605",1.00,"6,604.90",6.605,,Retail
+115,F2,420,Chemdawg,RND|Popcorn/Shake,,,,169,169,1.00,168.70,0.169,26.97%,
+115,F2,336,Gas Paradise,Shake,12,1500,1,108,"18,108",1.00,"18,108.10",18.108,22.96%,Wholesale
+115,G1,MC280823V3,Molten Core,Large Flower,,,,33460,"33,460",1.00,"33,460.00",33.460,,Retail
+115,G1,305,Cherry Noir,Shred,6,1500,1,1110,"10,110",1.00,"10,110.00",10.110,21.68%,Retail
+115,G1,342,Cherry Noir,Shred,,,,1700,"1,700",1.00,"1,700.00",1.700,21.84%,Retail
+115,G1,383,Cherry Noir,Shred,21,1500,1,1020,"32,520",1.00,"32,519.70",32.520,20.44%,Retail
+115,G1,288,Cherry Noir,Shake,18,1500,1,,"27,000",1.00,"27,000.00",27.000,22.23%,Wholesale
+115,G2,283,Blue Chem,Popcorn,5,1000,1,136,"5,136",1.00,"5,136.30",5.136,29.08%,Wholesale
+115,G2,396,Chemdawg,Popcorn,36,1000,1,505,"36,505",1.00,"36,505.10",36.505,28.46%,Retail
+115,G2,301,Gas Paradise,Popcorn,9,1000,1,597,"9,597",1.00,"9,596.90",9.597,26.33%,Wholesale
+115,G2,432,Chemdawg,Popcorn/Shake,,,,12425,"12,425",1.00,"12,425.30",12.425,29.68%,Wholesale
+115,G2,432,Chemdawg,RND|Popcorn/Shake,,,,140,140,1.00,140.40,0.140,29.68%,
+115,G2,270,Medellin,Popcorn,7,1000,1,286,"7,286",1.00,"7,286.10",7.286,28.18%,Retail
+115,G2,283,Blue Chem,Shake,16,1500,1,1477,"25,477",1.00,"25,477.00",25.477,29.08%,Retail
+115,G2,368,Blueberry Kush,Shake,5,1000,1,1151,"6,151",1.00,"6,151.00",6.151,22.15%,Wholesale
+115,G2,301,Gas Paradise,Shake,14,1500,1,678,"21,678",1.00,"21,678.20",21.678,26.33%,Wholesale
+115,PALETTE,269,Blue Chem,Jars 3.5,26,24,1,,624,3.50,"2,184.00",2.184,27.25%,
+115,PALETTE,390,Blueberry Kush,Jars 3.5,29,24,1,,696,3.50,"2,436.00",2.436,23.89%,
+115,RACK,217,Chemdawg,Pouches 3.5,1,24,1,,24,3.50,84.00,0.084,25.79%,
+115,RACK,96332,Slurricane #7,Large Flower,,,,139,139,1.00,138.70,0.139,,Retail
+115,RACK,343,Chemdawg,RND|Prérouler 0.6,,,,3,3,0.60,1.80,0.002,26.45%,
+115,RACK,343,Chemdawg,Defect|Prérouler 0.6,,,,20,20,0.60,12.00,0.012,26.45%,
+115,RACK,343,Chemdawg,Defect|Prérouler 0.6,,,,19,19,0.60,11.40,0.011,26.45%,
+115,RACK,343,Chemdawg,RND|Shred,,,,1931,"1,931",1.00,"1,930.70",1.931,26.45%,
+115,RACK,395H,Chemdawg,Hash,,,,10,10,1.00,9.90,0.010,,
+115,RACK,395H,Chemdawg,Hash 3.0,1,1,1,,1,3.00,3.00,0.003,,
+115,RACK,395H,Chemdawg,RND|Hash,,,,6,6,1.00,5.80,0.006,,
+115,RACK,396H,Chemdawg,Hash,,,,11,11,1.00,11.30,0.011,,
+115,RACK,396H,Chemdawg,RND|Hash,,,,14,14,1.00,13.80,0.014,,
+115,RACK,386,Purple Chitral,Popcorn,,,,1524,"1,524",1.00,"1,523.50",1.524,27.84%,Retail
+115,RACK,388,Medellin,RND|Large Flower,,,,145,145,1.00,144.70,0.145,28.50%,
+115,RACK,388,Medellin,RND|Shake,,,,398,398,1.00,397.70,0.398,28.50%,
+115,RACK,96332,Slurricane #7,Popcorn/Shake,,,,352,352,1.00,351.70,0.352,,Retail
+115,RACK,272,Sage N Sour,Prérouler 0.6,,,,5,5,0.60,3.00,0.003,28.34%,
+115,RACK,272,Sage N Sour,RND|Prérouler 0.6,,,,46,46,0.60,27.60,0.028,28.34%,
+115,RACK,272,Sage N Sour,Defect|Prérouler 0.6,,,,757,757,0.60,454.20,0.454,28.34%,
+115,RACK,106416,Sage N Sour,Hash,,,,18,18,1.00,18.10,0.018,,
+115,RACK,106416,Sage N Sour,RND|Hash,,,,17,17,1.00,17.40,0.017,,
+115,RACK,96332,Slurricane #7,RND|Popcorn/Shake,,,,20,20,1.00,20.00,0.020,,
+166,,450,Medellin,Prérouler 0.35,,,,1000,"1,000",0.35,350.00,0.350,29.30%,
+166,,450,Medellin,Shred,,,,7813,"7,813",1.00,"7,813.00",7.813,29.30%,Retail
+115,D2,INCONNU,Sage N Sour,RND|Shred,,,,75,75,1.00,75.00,0.075,,

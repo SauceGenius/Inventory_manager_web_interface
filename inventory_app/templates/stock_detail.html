@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}
+Stock Detail
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="my-4">Stock Detail for ID {{ stock['stock_id'] }}</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <p><strong>Batch:</strong> {{ stock['batch_name'] }}</p>
+            <p><strong>Lineage:</strong> {{ stock['lineage_name'] }}</p>
+            <p><strong>Category:</strong> {{ stock['category_name'] }}</p>
+            <p><strong>Harvest Date:</strong> {{ stock['date_harvest'] }}</p>
+            <p><strong>THC:</strong> {{ stock['batch_thc'] }}</p>
+            <p><strong>Weight (g):</strong> {{ "{:,.2f}".format(stock['weight_g']) }}</p>
+            <p><strong>Status:</strong> {{ 'Sold' if stock['is_sold'] else 'Available' }}</p>
+            <p><strong>Date:</strong> {{ stock['date_stock'] }}</p>
+
+            {% if stock['is_sold'] %}
+            <p><strong>Sale Price per gram:</strong> {{ stock['price_per_gram'] }} $</p>
+            <p><strong>Sale Value:</strong> {{ "{:,.2f}".format(stock['sale_total']) }} $</p>
+            <p><strong>Date of Sale:</strong> {{ stock['date_sale'] }}</p>
+            {% endif %}
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-12">
+            <form action="{{ url_for('stock_detail', stock_id=stock['stock_id']) }}" method="post" class="mb-4">
+                <label for="comment">Add a comment:</label>
+                <textarea id="comment" name="comment" rows="4" class="form-control">{{ stock['comment'] }}</textarea>
+                <button type="submit" class="btn btn-primary mt-2">Submit Comment</button>
+            </form>
+
+            <div class="button-container">
+                {% if not stock['is_sold'] %}
+                <form action="{{ url_for('sale', stock_id=stock['stock_id']) }}" method="get" class="mr-2">
+                    <button type="submit" class="btn btn-success">Sale</button>
+                </form>
+                {% else %}
+                <p><strong>Note:</strong> This stock has already been sold.</p>
+                {% endif %}
+                <a href="{{ url_for('index') }}" class="btn btn-danger">Back to Inventory</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

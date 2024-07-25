@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+
+{% block title %}Stock Inventory{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center my-4">
+        <h1>Wholesale Inventory</h1>
+        <a id="export-button" href="#" class="btn btn-success">Export to Excel</a>
+    </div>
+    <form id="filter-form" action="{{ url_for('index') }}" method="get" class="form-inline mb-4">
+        <div class="form-group mr-2">
+            <label for="batch" class="mr-2">Batch:</label>
+            <select id="batch" name="batch[]" multiple="multiple" class="form-control">
+                {% for batch in batches %}
+                <option value="{{ batch['batch_name'] }}" {% if batch['batch_name'] in selected_batches %}selected{% endif %}>
+                    {{ batch['batch_name'] }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group mr-2">
+            <label for="lineage" class="mr-2">Lineage:</label>
+            <select id="lineage" name="lineage[]" multiple="multiple" class="form-control">
+                {% for lin in lineages %}
+                <option value="{{ lin['lineage_name'] }}" {% if lin['lineage_name'] in selected_lineages %}selected{% endif %}>
+                    {{ lin['lineage_name'] }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group mr-2">
+            <label for="category" class="mr-2">Category:</label>
+            <select id="category" name="category[]" multiple="multiple" class="form-control">
+                {% for cat in categories %}
+                <option value="{{ cat['category_name'] }}" {% if cat['category_name'] in selected_categories %}selected{% endif %}>
+                    {{ cat['category_name'] }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group mr-2">
+            <label for="status" class="mr-2">Status:</label>
+            <select id="status" name="status" class="form-control">
+                <option value="">All</option>
+                <option value="1" {% if selected_status == '1' %}selected{% endif %}>Sold</option>
+                <option value="0" {% if selected_status == '0' %}selected{% endif %}>Available</option>
+            </select>
+        </div>
+
+        <button type="button" class="btn btn-secondary mr-2" onclick="window.location.href='/'">Clear</button>
+    </form>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID <button onclick="sortTable('stock_id')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'stock_id' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Batch <button onclick="sortTable('batch_name')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'batch_name' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Lineage <button onclick="sortTable('lineage_name')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'lineage_name' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Category <button onclick="sortTable('category_name')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'category_name' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Harvest date <button onclick="sortTable('date_harvest')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'date_harvest' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>THC <button onclick="sortTable('thc')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'thc' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Weight (g) <button onclick="sortTable('weight_g')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'weight_g' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Status <button onclick="sortTable('is_sold')" class="btn btn-link p-0 ml-2 sort-button"><i class="fas fa-sort{% if sort_by == 'is_sold' %}-{{ 'up' if sort_order == 'asc' else 'down' }} sort-active{% endif %} sort-symbol"></i></button></th>
+                    <th>Select</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for stock in stocks %}
+                <tr>
+                    <td>{{ stock['stock_id'] }}</td>
+                    <td>{{ stock.get('batch_name', 'N/A') }}</td>
+                    <td>{{ stock.get('lineage_name', 'N/A') }}</td>
+                    <td>{{ stock.get('category_name', 'N/A') }}</td>
+                    <td>{{ stock.get('date_harvest', 'N/A') }}</td>
+                    <td>{{ stock.get('thc', 'N/A') }}</td>
+                    <td class="text-right">{{ "{:,.2f}".format(stock.weight_g) }}</td>
+                    <td>{{ 'Sold' if stock.get('is_sold', False) else 'Available' }}</td>
+                    <td><a href="{{ url_for('stock_detail', stock_id=stock['stock_id']) }}" class="btn btn-primary btn-sm">Select</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        $('#batch, #category, #lineage, #status').select2({
+            allowClear: true
+        }).on('change', function(e) {
+            $(this).closest('form').submit();
+        });
+
+        // Update export button href with current filters
+        updateExportButtonHref();
+
+        $('#filter-form select').on('change', function() {
+            updateExportButtonHref();
+        });
+
+        function updateExportButtonHref() {
+            let url = "{{ url_for('export') }}";
+            let params = new URLSearchParams($('#filter-form').serialize());
+            $('#export-button').attr('href', url + '?' + params.toString());
+        }
+
+        window.sortTable = function(column) {
+            let currentUrl = new URL(window.location.href);
+            let sortOrder = currentUrl.searchParams.get('sort_order') === 'asc' ? 'desc' : 'asc';
+
+            currentUrl.searchParams.set('sort_by', column);
+            currentUrl.searchParams.set('sort_order', sortOrder);
+
+            window.location.href = currentUrl.toString();
+        };
+    });
+</script>
+{% endblock %}
