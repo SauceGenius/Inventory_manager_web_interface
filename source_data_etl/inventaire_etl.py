@@ -4,13 +4,15 @@ import pandas as pd
 import os
 import mysql.connector
 from mysql.connector import Error
+from dotenv import load_dotenv
 
+# Charger les variables d'environnement depuis le fichier .env
+load_dotenv()
 
-DATABASE_HOST = '192.168.10.12'
-DATABASE_NAME = 'ventes_beta'
-DATABASE_ADMIN_USERNAME = 'cforget_dba'
-DATABASE_ADMIN_PASSWORD = 'finally'
-
+DATABASE_HOST = os.getenv('DATABASE_HOST')
+DATABASE_NAME = os.getenv('DATABASE_NAME')
+DATABASE_ADMIN_USERNAME = os.getenv('DATABASE_ADMIN_USERNAME')
+DATABASE_ADMIN_PASSWORD = os.getenv('DATABASE_ADMIN_PASSWORD')
 
 # Read all csv files in /data folder
 data_frames = []
