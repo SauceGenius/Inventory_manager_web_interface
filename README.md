@@ -66,7 +66,11 @@ The application is designed to be used internally by the sales team of a cannabi
 
 ## Accessing the Application
 - The code source of the project is available at [GitHub Repository](https://github.com/SauceGenius/Inventory_manager_web_interface).
+<<<<<<< HEAD
 - The application is deployed and can be accessed at [BudTracker](http://budtracker.gch2dzghanfmdhbn.canadaeast.azurecontainer.io/).
+=======
+- The application is deployed and can be accessed at [Budtracker](http://budtracker.gch2dzghanfmdhbn.canadaeast.azurecontainer.io/).
+>>>>>>> 8fd7086500c2a924ff488dd2d9cdd7fd28e28696
 
 ## Database Schema
 The MySQL database schema includes the following tables:
@@ -82,4 +86,8 @@ The MySQL database schema includes the following tables:
 - Implement SSL certificates to secure the application (HTTPS).
 - Develop additional use cases identified in the initial project report.
 - Integrate with the ISOlocity API to fetch THC and harvest date data.
+<<<<<<< HEAD
 - Enhance the commenting feature to allow multiple comments per stock item.
+=======
+- Enhance the commenting feature to allow multiple comments per stock item.
+>>>>>>> 8fd7086500c2a924ff488dd2d9cdd7fd28e28696
