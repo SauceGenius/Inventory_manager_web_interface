@@ -2,16 +2,21 @@
 # Description : this file generate a date dimension table for the mysql database
 # Last update: 2024-07-23
 
+import os
 import pandas as pd
 from datetime import timedelta
 import mysql.connector
 from mysql.connector import Error
 from tqdm import tqdm
+from dotenv import load_dotenv
 
-DATABASE_HOST = 'localhost'
-DATABASE_NAME = 'inventory'
-DATABASE_ADMIN_USERNAME = 'root'
-DATABASE_ADMIN_PASSWORD = 'tofer006007'
+# Charger les variables d'environnement depuis le fichier .env
+load_dotenv()
+
+DATABASE_HOST = os.getenv('DATABASE_HOST')
+DATABASE_NAME = os.getenv('DATABASE_NAME')
+DATABASE_ADMIN_USERNAME = os.getenv('DATABASE_ADMIN_USERNAME')
+DATABASE_ADMIN_PASSWORD = os.getenv('DATABASE_ADMIN_PASSWORD')
 
 # Function to calculate fiscal quarter
 def get_fiscal_quarter(date):
